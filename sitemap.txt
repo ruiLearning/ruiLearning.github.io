@@ -1,0 +1,9 @@
+http://example.com/2022/03/13/hello-world/
+http://example.com/2022/03/13/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/
+http://example.com/2022/03/13/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC2/
+http://example.com/link/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/
+http://example.com/tags/highlight/
+http://example.com/categories/Demo/
