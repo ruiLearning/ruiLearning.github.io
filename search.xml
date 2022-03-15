@@ -1,22 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/03/13/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>MarkDown语法及美化预览</title>
+    <url>/2022/03/14/MarkDown%E8%AF%AD%E6%B3%95%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%A2%84%E8%A7%88/</url>
+    <content><![CDATA[<p>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
+<p>相比WYSIWYG编辑器</p>
+<p>优点：<br>1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。<br>2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可</p>
+<p>缺点：<br>1、需要记一些语法（当然，是很简单。五分钟学会）。<br>2、有些平台不支持Markdown编辑模式。</p>
+<p>还好，简书是支持Markdown编辑模式的。</p>
+<p>开启方式：设置-&gt;默认编辑器-&gt;Markdown编辑器<br>一、标题<br>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。</p>
+<p>注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。</p>
+<p>示例：</p>
+<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p>效果如下：</p>
+<p>这是一级标题<br>这是二级标题<br>这是三级标题<br>这是四级标题<br>这是五级标题<br>这是六级标题<br>二、字体<br>加粗<br>要加粗的文字左右分别用两个*号包起来</p>
+<p>斜体<br>要倾斜的文字左右分别用一个*号包起来</p>
+<p>斜体加粗<br>要倾斜和加粗的文字左右分别用三个*号包起来</p>
+<p>删除线<br>要加删除线的文字左右分别用两个~~号包起来</p>
+<p>示例：</p>
+<p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>&#96;<br><em><strong>这是斜体加粗的文字</strong></em><br><del>这是加删除线的文字</del><br>效果如下：</p>
+<p>这是加粗的文字<br>这是倾斜的文字<br>这是斜体加粗的文字<br>这是加删除线的文字</p>
+<p>三、引用<br>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>n个…<br>貌似可以一直加下去，但没神马卵用</p>
+<p>示例：</p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>这是引用的内容<br>效果如下：</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>这是引用的内容</p>
+<p>这是引用的内容</p>
+<p>这是引用的内容</p>
+<p>四、分割线<br>三个或者三个以上的 - 或者 * 都可以。</p>
+<p>示例：</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>效果如下：<br>可以看到，显示效果是一样的。</p>
+<p>五、图片<br>语法：</p>
+<p>![图片alt](图片地址 ‘’图片title’’)</p>
+<p>图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br>图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加<br>示例：</p>
+<p>![blockchain](<a href="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/">https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/</a><br>u&#x3D;702257389,1274025419&amp;fm&#x3D;27&amp;gp&#x3D;0.jpg “区块链”)<br>效果如下：</p>
+<p>blockchain<br>上传本地图片直接点击导航栏的图片标志，选择图片即可</p>
+<p>markdown格式追求的是简单、多平台统一。那么图片的存储就是一个问题，需要用图床，提供统一的外链，这样就不用在不同的平台去处理图片的问题了。才能做到书写一次，各处使用。<br>关于图床的选择我写了一篇文章，对网上存在的各种方法做了总结，需要的朋友可以看看。markdown图床</p>
+<p>六、超链接<br>语法：</p>
+<p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="超链接title">超链接名</a><br>title可加可不加<br>示例：</p>
+<p><a href="http://jianshu.com/">简书</a><br><a href="http://baidu.com/">百度</a><br>效果如下：</p>
+<p>简书<br>百度</p>
+<p>注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。别的平台可能就不行了，如果想要在新页面中打开的话可以用html语言的a标签代替。</p>
+<p><a href="超链接地址" target="_blank">超链接名</a></p>
+<p>示例<br><a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a><br>七、列表<br>无序列表<br>语法：<br>无序列表用 - + * 任何一种都可以</p>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+<p>注意：- + * 跟内容之间都要有一个空格</p>
+<p>效果如下：</p>
+<p>列表内容<br>列表内容<br>列表内容<br>有序列表<br>语法：<br>数字加点</p>
+<ol>
+<li>列表内容</li>
+<li>列表内容</li>
+<li>列表内容</li>
+</ol>
+<p>注意：序号跟内容之间要有空格<br>效果如下：</p>
+<p>列表内容<br>列表内容<br>列表内容<br>列表嵌套<br>上一级和下一级之间敲三个空格即可</p>
+<p>一级无序列表内容</p>
+<p>二级无序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>一级无序列表内容</p>
+<p>二级有序列表内容<br>二级有序列表内容<br>二级有序列表内容<br>一级有序列表内容</p>
+<p>二级无序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>一级有序列表内容</p>
+<p>二级有序列表内容<br>二级有序列表内容<br>二级有序列表内容<br>八、表格<br>语法：</p>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th align="center">表头</th>
+<th align="right">表头</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+</tr>
+<tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+</tr>
+</tbody></table>
+<p>第二行分割表头和内容。</p>
+<ul>
+<li>有一个就行，为了对齐，多加了几个<br>文字默认居左</li>
+</ul>
+<p>-两边加：表示文字居中<br>-右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略<br>示例：</p>
+<table>
+<thead>
+<tr>
+<th>姓名</th>
+<th align="center">技能</th>
+<th align="right">排行</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>刘备</td>
+<td align="center">哭</td>
+<td align="right">大哥</td>
+</tr>
+<tr>
+<td>关羽</td>
+<td align="center">打</td>
+<td align="right">二哥</td>
+</tr>
+<tr>
+<td>张飞</td>
+<td align="center">骂</td>
+<td align="right">三弟</td>
+</tr>
+<tr>
+<td>效果如下：</td>
+<td align="center"></td>
+<td align="right"></td>
+</tr>
+</tbody></table>
+<p>姓名    技能    排行<br>刘备    哭    大哥<br>关羽    打    二哥<br>张飞    骂    三弟<br>九、代码<br>语法：<br>单行代码：代码之间分别用一个反引号包起来</p>
+<pre><code>`代码内容`
+</code></pre>
+<p>代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
+<p>(<code>)   代码...   代码...   代码... (</code>)<br>注：为了防止转译，前后三个反引号处加了小括号，实际是没有的。这里只是用来演示，实际中去掉两边小括号即可。</p>
+<p>示例：</p>
+<p>单行代码</p>
+<p><code>create database hero;</code><br>代码块</p>
+<p>(<code>)     function fun()&#123;          echo &quot;这是一句非常牛逼的代码&quot;;     &#125;     fun(); (</code>)<br>效果如下：</p>
+<p>单行代码</p>
+<p>create database hero;</p>
+<p>代码块</p>
+<p>function fun(){<br>  echo “这是一句非常牛逼的代码”;<br>}<br>fun();<br>十、流程图</p>
+<pre><code class="flow">st=&gt;start: 开始
+op=&gt;operation: My Operation
+cond=&gt;condition: Yes or No?
+e=&gt;end
+st-&gt;op-&gt;cond
+cond(yes)-&gt;e
+cond(no)-&gt;op
+&amp;```
+效果如下：
+简书不支持流程图，所以截了个图
+</code></pre>
 ]]></content>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -25,31 +180,31 @@
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">
 
   <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
+  <img class="gallery-group-img no-lightbox" src="https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png" alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">壁紙</div>
   <p>收藏的一些壁紙</p>
-  <a href='/Gallery/wallpaper'></a>
+  <a href="/Gallery/wallpaper"></a>
   </figcaption>
   </figure>
   
 
   <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
+  <img class="gallery-group-img no-lightbox" src="https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg" alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">漫威</div>
   <p>關於漫威的圖片</p>
-  <a href='/Gallery/marvel'></a>
+  <a href="/Gallery/marvel"></a>
   </figcaption>
   </figure>
   
 
   <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
+  <img class="gallery-group-img no-lightbox" src="https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg" alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">OH MY GIRL</div>
   <p>關於OH MY GIRL的圖片</p>
-  <a href='/Gallery/ohmygirl'></a>
+  <a href="/Gallery/ohmygirl"></a>
   </figcaption>
   </figure>
   
@@ -57,17 +212,17 @@
 
 <p>你看我長得漂亮不</p>
 <p><img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png"></p>
-<p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/></p>
+<p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"></p>
 <div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong><br>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
-<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p>
-</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p>
-</div></div><div class='timeline-item-content'><p>這是測試頁面</p>
+<div class="timeline undefined"><div class="timeline-item headline"><div class="timeline-item-title"><div class="item-circle"><p>2022</p>
+</div></div></div><div class="timeline-item"><div class="timeline-item-title"><div class="item-circle"><p>01-02</p>
+</div></div><div class="timeline-item-content"><p>這是測試頁面</p>
 </div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p>
 <div class="flink"><div class="flink-name">友情鏈接</div><div class="flink-desc">那些人，那些事</div> <div class="flink-list">
           <div class="flink-list-item">
             <a href="https://jerryc.me/" title="JerryC" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://jerryc.me/img/avatar.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="JerryC" />
+                <img class="no-lightbox" src="https://jerryc.me/img/avatar.png" onerror="this.onerror=null;this.src="/img/friend_404.gif"" alt="JerryC">
               </div>
               <div class="flink-item-name">JerryC</div> 
               <div class="flink-item-desc" title="今日事,今日畢">今日事,今日畢</div>
@@ -76,7 +231,7 @@
           <div class="flink-list-item">
             <a href="https://hexo.io/zh-tw/" title="Hexo" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Hexo" />
+                <img class="no-lightbox" src="https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg" onerror="this.onerror=null;this.src="/img/friend_404.gif"" alt="Hexo">
               </div>
               <div class="flink-item-name">Hexo</div> 
               <div class="flink-item-desc" title="快速、簡單且強大的網誌框架">快速、簡單且強大的網誌框架</div>
@@ -85,7 +240,7 @@
           <div class="flink-list-item">
             <a href="https://www.youtube.com/" title="Youtube" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Youtube" />
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror="this.onerror=null;this.src="/img/friend_404.gif"" alt="Youtube">
               </div>
               <div class="flink-item-name">Youtube</div> 
               <div class="flink-item-desc" title="視頻網站">視頻網站</div>
@@ -94,7 +249,7 @@
           <div class="flink-list-item">
             <a href="https://www.weibo.com/" title="Weibo" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Weibo" />
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror="this.onerror=null;this.src="/img/friend_404.gif"" alt="Weibo">
               </div>
               <div class="flink-item-name">Weibo</div> 
               <div class="flink-item-desc" title="中國最大社交分享平臺">中國最大社交分享平臺</div>
@@ -103,7 +258,7 @@
           <div class="flink-list-item">
             <a href="https://twitter.com/" title="Twitter" target="_blank">
               <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Twitter" />
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror="this.onerror=null;this.src="/img/friend_404.gif"" alt="Twitter">
               </div>
               <div class="flink-item-name">Twitter</div> 
               <div class="flink-item-desc" title="社交分享平臺">社交分享平臺</div>
@@ -139,6 +294,24 @@
   </entry>
   <entry>
     <title>Hello World</title>
+    <url>/2022/03/13/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
     <url>/2022/03/13/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC2/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
@@ -153,6 +326,32 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>read1</title>
+    <url>/2022/03/13/read1/</url>
+    <content><![CDATA[<blockquote>
+<p>视频或文字链接如下，感兴趣的可以自己去看一看哟：🆒<br><a href="https://list.youku.com/show/id_z5bdbf57c947311e3b8b7.html">罗辑思维：</a><a href="https://v.youku.com/v_show/id_XNTgxODEyODA0.html?spm=a2hzp.8253869.0.0">你的女神你不懂 31</a></p>
+</blockquote>
+<p>看视频或者文字该有的感悟，让它与生活联系更加紧密！纯粹写着玩，你有什么不一样的高见么？欢迎下方留言，一起讨论哟！😄</p>
+<blockquote>
+<p>免责声明:内容均来自互联网收集而来，版权归原创者所有，如果侵犯了你的权益，请通知我们，我们会及时删除侵权内容！</p>
+</blockquote>
+<hr>
+<p><img src="http://qnmedia.songdongxu.top/ewm_lz_.jpg" alt="每日一句"></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图片相对路径测试</title>
+    <url>/2022/03/14/%E5%9B%BE%E7%89%87%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p><img src="/2022/03/14/%E5%9B%BE%E7%89%87%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%B5%8B%E8%AF%95/dev.webp"><br><img src="/2022/03/14/%E5%9B%BE%E7%89%87%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%B5%8B%E8%AF%95/message_receive_sayhi_static.png"></p>
 ]]></content>
   </entry>
 </search>
