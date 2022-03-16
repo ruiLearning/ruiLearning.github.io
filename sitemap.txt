@@ -1,3 +1,6 @@
+https://ruilearning.github.io/link/index.html
+https://ruilearning.github.io/about/index.html
+https://ruilearning.github.io/artitalk/index.html
 https://ruilearning.github.io/2022/03/17/199%E9%80%BB%E8%BE%91/
 https://ruilearning.github.io/2022/03/17/199%E6%95%B0%E5%AD%A6/
 https://ruilearning.github.io/2022/03/17/%E8%8B%B1%E8%AF%AD2/
@@ -8,11 +11,8 @@ https://ruilearning.github.io/2022/03/14/MarkDown%E8%AF%AD%E6%B3%95%E5%8F%8A%E7%
 https://ruilearning.github.io/2022/03/15/markDown%E8%AF%AD%E6%B3%95/
 https://ruilearning.github.io/2022/03/13/hello-world/
 https://ruilearning.github.io/2022/03/13/read1/
-https://ruilearning.github.io/artitalk/index.html
-https://ruilearning.github.io/link/index.html
 https://ruilearning.github.io/categories/index.html
 https://ruilearning.github.io/tags/index.html
-https://ruilearning.github.io/about/index.html
 https://ruilearning.github.io/
 https://ruilearning.github.io/tags/%E5%86%99%E4%BD%9C/
 https://ruilearning.github.io/tags/%E6%95%B0%E5%AD%A6/
