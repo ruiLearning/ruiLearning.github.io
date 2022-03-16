@@ -13,6 +13,326 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello</title>
+    <url>/2022/03/13/hello-world/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">壁紙</div>
+  <p>收藏的一些壁紙</p>
+  <a href='/Gallery/wallpaper'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">漫威</div>
+  <p>關於漫威的圖片</p>
+  <a href='/Gallery/marvel'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">OH MY GIRL</div>
+  <p>關於OH MY GIRL的圖片</p>
+  <a href='/Gallery/ohmygirl'></a>
+  </figcaption>
+  </figure>
+  
+</div>
+
+<p>你看我長得漂亮不</p>
+<p><img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png"></p>
+<p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/></p>
+<div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong><br>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
+<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p>
+</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p>
+</div></div><div class='timeline-item-content'><p>這是測試頁面</p>
+</div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p>
+<div class="flink"><div class="flink-name">友情鏈接</div><div class="flink-desc">那些人，那些事</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://jerryc.me/" title="JerryC" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://jerryc.me/img/avatar.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="JerryC" />
+              </div>
+              <div class="flink-item-name">JerryC</div> 
+              <div class="flink-item-desc" title="今日事,今日畢">今日事,今日畢</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://hexo.io/zh-tw/" title="Hexo" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Hexo" />
+              </div>
+              <div class="flink-item-name">Hexo</div> 
+              <div class="flink-item-desc" title="快速、簡單且強大的網誌框架">快速、簡單且強大的網誌框架</div>
+            </a>
+          </div></div><div class="flink-name">網站</div><div class="flink-desc">值得推薦的網站</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.youtube.com/" title="Youtube" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Youtube" />
+              </div>
+              <div class="flink-item-name">Youtube</div> 
+              <div class="flink-item-desc" title="視頻網站">視頻網站</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.weibo.com/" title="Weibo" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Weibo" />
+              </div>
+              <div class="flink-item-name">Weibo</div> 
+              <div class="flink-item-desc" title="中國最大社交分享平臺">中國最大社交分享平臺</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://twitter.com/" title="Twitter" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Twitter" />
+              </div>
+              <div class="flink-item-name">Twitter</div> 
+              <div class="flink-item-desc" title="社交分享平臺">社交分享平臺</div>
+            </a>
+          </div></div></div>
+
+
+<p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/4aa8abbe/#flink">https://butterfly.js.org/posts/4aa8abbe/#flink</a><br>來源: Butterfly<br>著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+<div class="fj-gallery"><p><img src="https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg"><br><img src="https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg"><br><img src="https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg"><br><img src="https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg"><br><img src="https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg"><br><img src="https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg"><br><img src="https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg"><br><img src="https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg"></p>
+          </div>
+
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随笔</title>
+    <url>/2022/03/13/read1/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markDown语法</title>
+    <url>/2022/03/15/markDown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>&#96;<br><em><strong>这是斜体加粗的文字</strong></em><br><del>这是加删除线的文字</del></p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>这是引用的内容</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**这是加粗的文字**</span><br><span class="line">*这是倾斜的文字*`</span><br><span class="line">***这是斜体加粗的文字***</span><br><span class="line">~~这是加删除线的文字~~</span><br><span class="line"></span><br><span class="line">&gt;这是引用的内容</span><br><span class="line">&gt;&gt;这是引用的内容</span><br><span class="line">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>区块中使用列表</p>
+<ol>
+<li>第一项</li>
+<li>第二项</li>
+</ol>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+</blockquote>
+<ul>
+<li>第一项<blockquote>
+<p>菜鸟教程<br>学的不仅是技术更是梦想</p>
+</blockquote>
+</li>
+<li>第二项</li>
+</ul>
+<hr>
+<hr>
+<hr>
+<hr>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+<p>注意：- + * 跟内容之间都要有一个空格</p>
+<ol>
+<li>列表内容</li>
+<li>列表内容</li>
+<li>列表内容</li>
+</ol>
+<p>注意：序号跟内容之间要有空格</p>
+<ol>
+<li>第一项：<ul>
+<li>第一项嵌套的第一个元素</li>
+<li>第一项嵌套的第二个元素</li>
+</ul>
+</li>
+<li>第二项：<ul>
+<li>第二项嵌套的第一个元素</li>
+<li>第二项嵌套的第二个元素<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt; 区块中使用列表</span><br><span class="line">&gt; 1. 第一项</span><br><span class="line">&gt; 2. 第二项</span><br><span class="line">&gt; + 第一项</span><br><span class="line">&gt; + 第二项</span><br><span class="line">&gt; + 第三项</span><br><span class="line"></span><br><span class="line">* 第一项</span><br><span class="line">    &gt; 菜鸟教程</span><br><span class="line">    &gt; 学的不仅是技术更是梦想</span><br><span class="line">* 第二项</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">----</span><br><span class="line">***</span><br><span class="line">*****</span><br><span class="line">- 列表内容</span><br><span class="line">+ 列表内容</span><br><span class="line">* 列表内容</span><br><span class="line"></span><br><span class="line">注意：- + * 跟内容之间都要有一个空格</span><br><span class="line"></span><br><span class="line">1. 列表内容</span><br><span class="line">2. 列表内容</span><br><span class="line">3. 列表内容</span><br><span class="line"></span><br><span class="line">注意：序号跟内容之间要有空格</span><br><span class="line"></span><br><span class="line">1. 第一项：</span><br><span class="line">    - 第一项嵌套的第一个元素</span><br><span class="line">    - 第一项嵌套的第二个元素</span><br><span class="line">2. 第二项：</span><br><span class="line">    - 第二项嵌套的第一个元素</span><br><span class="line">    - 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![alt 属性文本](图片地址)</span><br><span class="line">![alt 属性文本](图片地址 &quot;可选标题&quot;)</span><br><span class="line"></span><br><span class="line">图片alt就是显示在图片下面的文字，相当于对图片内容的解释。</span><br><span class="line">图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</span><br></pre></td></tr></table></figure>
+<img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标"></li>
+</ul>
+</li>
+</ol>
+<p><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" title="RUNOOB"></p>
+<p>这个链接用 1 作为网址变量 <a href="http://static.runoob.com/images/runoob-logo.png">RUNOOB</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
+<img src="http://static.runoob.com/images/runoob-logo.png" width="20%">
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)</span><br><span class="line"></span><br><span class="line">![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png &quot;RUNOOB&quot;)</span><br><span class="line"></span><br><span class="line">这个链接用 1 作为网址变量 [RUNOOB][1].</span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line"></span><br><span class="line">[1]: http://static.runoob.com/images/runoob-logo.png</span><br><span class="line"></span><br><span class="line">&lt;img src=&quot;http://static.runoob.com/images/runoob-logo.png&quot; width=&quot;20%&quot;&gt;</span><br></pre></td></tr></table></figure>
+
+<p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="超链接title">超链接名</a><br>title可加可不加</p>
+<p><a href="http://jianshu.com/">简书</a><br><a href="http://baidu.com/">百度</a></p>
+<p><a href="超链接地址" target="_blank">超链接名</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[超链接名](超链接地址 &quot;超链接title&quot;)</span><br><span class="line">title可加可不加</span><br><span class="line"></span><br><span class="line">[简书](http://jianshu.com)</span><br><span class="line">[百度](http://baidu.com)</span><br><span class="line"></span><br><span class="line">&lt;a href=&quot;超链接地址&quot; target=&quot;_blank&quot;&gt;超链接名&lt;/a&gt;</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="left">左对齐</th>
+<th align="right">右对齐</th>
+<th align="center">居中对齐</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">单元格123123</td>
+<td align="right">单元格123123</td>
+<td align="center">单元格123123</td>
+</tr>
+<tr>
+<td align="left">单元格</td>
+<td align="right">单元格</td>
+<td align="center">单元格</td>
+</tr>
+</tbody></table>
+<p>第二行分割表头和内容。</p>
+<ul>
+<li>有一个就行，为了对齐，多加了几个<br>文字默认居左</li>
+<li>两边加：表示文字居中</li>
+<li>右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>姓名</th>
+<th align="center">技能</th>
+<th align="right">排行</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>刘备</td>
+<td align="center">哭</td>
+<td align="right">大哥</td>
+</tr>
+<tr>
+<td>关羽</td>
+<td align="center">打</td>
+<td align="right">二哥</td>
+</tr>
+<tr>
+<td>张飞</td>
+<td align="center">骂</td>
+<td align="right">三弟</td>
+</tr>
+</tbody></table>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">| 左对齐 | 右对齐 | 居中对齐 |</span><br><span class="line">| :-----| ----: | :----: |</span><br><span class="line">| 单元格123123 | 单元格123123 | 单元格123123 |</span><br><span class="line">| 单元格 | 单元格 | 单元格 |</span><br><span class="line"></span><br><span class="line">第二行分割表头和内容。</span><br><span class="line">- 有一个就行，为了对齐，多加了几个</span><br><span class="line">文字默认居左</span><br><span class="line">- 两边加：表示文字居中</span><br><span class="line">- 右边加：表示文字居右</span><br><span class="line">注：原生的语法两边都要用 | 包起来。此处省略</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">姓名|技能|排行</span><br><span class="line">--|:--:|--:</span><br><span class="line">刘备|哭|大哥</span><br><span class="line">关羽|打|二哥</span><br><span class="line">张飞|骂|三弟</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p><code>代码内容</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码...</span><br><span class="line">代码...</span><br><span class="line">代码...</span><br></pre></td></tr></table></figure>
+
+
+]]></content>
+      <categories>
+        <category>markdown</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图床</title>
+    <url>/2022/03/16/%E5%9B%BE%E5%BA%93/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">壁紙</div>
+  <p>收藏的一些壁紙</p>
+  <a href='/Gallery/wallpaper'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">漫威</div>
+  <p>關於漫威的圖片</p>
+  <a href='/Gallery/marvel'></a>
+  </figcaption>
+  </figure>
+  
+
+  <figure class="gallery-group">
+  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">OH MY GIRL</div>
+  <p>關於OH MY GIRL的圖片</p>
+  <a href='/Gallery/ohmygirl'></a>
+  </figcaption>
+  </figure>
+  
+</div>
+
+
+
+<div class="fj-gallery"><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/3f477865232b5c98bb142aa407e20287.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/6f50128f54222f6a8fa9d77090daf59d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/24f2e3df2ec8ddfc08c1721b92ae638a.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/42d2641fda9ee3c43eaf7b1ed11b6338.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61f45884e054a05f4a93698e18810c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/79e2e2284d98c0c02ec485e8f7856d77.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/96d1dc6370057e9c03992979baafc117.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/98def8e24101d79dfcd4399638e78781.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/358d8d8c6c6fa8373acf24afe514ec2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1833f805bf0df0b3a8c9a9b0aa9f4c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/2523f03da1fd3dde654efc78dfc67a19.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/38401f2676b49180f6404b32f53953f5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61936571517435c57aa0adc0bcdb1e4b.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a3c9cb6cbbdd270d5023ecd90d7569d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a130ef46b3d0a335b3363669c2ec11d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/abdea2aa72d0f89958624aee05677553.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/ae3d6756795a474e0e4bec390e340ab6.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/af5c422da005d7ac4d61b321e3b0189c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c7aad37368b9f68266f55c0dcade4ea9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/cb423f162652e4dfad5b5faca14ae5fe.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/dcb305d2815f6a4d79c2fd286722bebc.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e1b1106750c1e58e6ef779de9258f465.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e5ac9a1bef32e50286f33d59e7661fb3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e104d0d5dbcbe58bba51190d7f00e7c5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f3caa078c89b42754e39ad3e1e54b01c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f006be020ccffcf7344f69cb6693bdd3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f9ca7c9a21750a3b77980ede3dda1555.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f218a6515dd7ee864e10c44840f3d412.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/fcbedb457123653266df39181773613a.jpeg?raw=true"></p><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/71c833adf88cef06551b239df4d1afd9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/54778b5fada052460995d5cc22d58e1d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f6f3adf657ed56877458ffea4ae7ea8c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/bd9f847e4a7b79f4840274889c960bf7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/67e5b3c194c09282c4415f0d96e03c65.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/301405be86256b72ab8006d75044e6ab.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/82a2f3629fb1ce4703cdf1a71d4066c4.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c0a22528b68cd7e948fb8a8f96d0dab5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c6f82e76f3876732663482c22f53e4b7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1f05de532ec9f06457cc8afa2deb8541.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/8753f0aee2c2c1387384a89309d90493.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/040ccf67c2f59576d76c4bbb91a46a7f.jpeg?raw=true"></p><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/cea740c3cbade2715c266dec1d7ad757.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f5731de6421c7c4d05e4747fb347c052.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/ec71c3cb77a416b3a80bb6665d5d75a4.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/0497bb756fc60c2badc67d4929e54074.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/9eb12bb5cd4e0db6d4752beb5f308ffb.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/7c8fcab67efd30a2dc800e015154b464.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/d0dd2e7f6f06d149da510faf0b47c0b3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/503d7ba91f167bbdd2505cbeac85ac28.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/6661581b38153c9473ae367d13983f33.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/3a20ad986bce2b559f738bdb2412efd3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c490283ccf939edbfd1eae88ed493b2d.jpeg?raw=true"></p>
+          </div>
+]]></content>
+  </entry>
+  <entry>
     <title>MarkDown语法及美化预览</title>
     <url>/2022/03/14/MarkDown%E8%AF%AD%E6%B3%95%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%A2%84%E8%A7%88/</url>
     <content><![CDATA[<p>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
@@ -181,328 +501,11 @@ cond(no)-&gt;op
 简书不支持流程图，所以截了个图
 </code></pre>
 ]]></content>
-      <tags>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello</title>
-    <url>/2022/03/13/hello-world/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">壁紙</div>
-  <p>收藏的一些壁紙</p>
-  <a href='/Gallery/wallpaper'></a>
-  </figcaption>
-  </figure>
-  
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">漫威</div>
-  <p>關於漫威的圖片</p>
-  <a href='/Gallery/marvel'></a>
-  </figcaption>
-  </figure>
-  
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">OH MY GIRL</div>
-  <p>關於OH MY GIRL的圖片</p>
-  <a href='/Gallery/ohmygirl'></a>
-  </figcaption>
-  </figure>
-  
-</div>
-
-<p>你看我長得漂亮不</p>
-<p><img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png"></p>
-<p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/></p>
-<div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong><br>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
-<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p>
-</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p>
-</div></div><div class='timeline-item-content'><p>這是測試頁面</p>
-</div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p>
-<div class="flink"><div class="flink-name">友情鏈接</div><div class="flink-desc">那些人，那些事</div> <div class="flink-list">
-          <div class="flink-list-item">
-            <a href="https://jerryc.me/" title="JerryC" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://jerryc.me/img/avatar.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="JerryC" />
-              </div>
-              <div class="flink-item-name">JerryC</div> 
-              <div class="flink-item-desc" title="今日事,今日畢">今日事,今日畢</div>
-            </a>
-          </div>
-          <div class="flink-list-item">
-            <a href="https://hexo.io/zh-tw/" title="Hexo" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Hexo" />
-              </div>
-              <div class="flink-item-name">Hexo</div> 
-              <div class="flink-item-desc" title="快速、簡單且強大的網誌框架">快速、簡單且強大的網誌框架</div>
-            </a>
-          </div></div><div class="flink-name">網站</div><div class="flink-desc">值得推薦的網站</div> <div class="flink-list">
-          <div class="flink-list-item">
-            <a href="https://www.youtube.com/" title="Youtube" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Youtube" />
-              </div>
-              <div class="flink-item-name">Youtube</div> 
-              <div class="flink-item-desc" title="視頻網站">視頻網站</div>
-            </a>
-          </div>
-          <div class="flink-list-item">
-            <a href="https://www.weibo.com/" title="Weibo" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Weibo" />
-              </div>
-              <div class="flink-item-name">Weibo</div> 
-              <div class="flink-item-desc" title="中國最大社交分享平臺">中國最大社交分享平臺</div>
-            </a>
-          </div>
-          <div class="flink-list-item">
-            <a href="https://twitter.com/" title="Twitter" target="_blank">
-              <div class="flink-item-icon">
-                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Twitter" />
-              </div>
-              <div class="flink-item-name">Twitter</div> 
-              <div class="flink-item-desc" title="社交分享平臺">社交分享平臺</div>
-            </a>
-          </div></div></div>
-
-
-<p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/4aa8abbe/#flink">https://butterfly.js.org/posts/4aa8abbe/#flink</a><br>來源: Butterfly<br>著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-
-<div class="fj-gallery"><p><img src="https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg"><br><img src="https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg"><br><img src="https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg"><br><img src="https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg"><br><img src="https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg"><br><img src="https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg"><br><img src="https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg"><br><img src="https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg"></p>
-          </div>
-
-<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>markDown语法</title>
-    <url>/2022/03/15/markDown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>&#96;<br><em><strong>这是斜体加粗的文字</strong></em><br><del>这是加删除线的文字</del></p>
-<blockquote>
-<p>这是引用的内容</p>
-<blockquote>
-<p>这是引用的内容</p>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<p>这是引用的内容</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**这是加粗的文字**</span><br><span class="line">*这是倾斜的文字*`</span><br><span class="line">***这是斜体加粗的文字***</span><br><span class="line">~~这是加删除线的文字~~</span><br><span class="line"></span><br><span class="line">&gt;这是引用的内容</span><br><span class="line">&gt;&gt;这是引用的内容</span><br><span class="line">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>区块中使用列表</p>
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-</ol>
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-</blockquote>
-<ul>
-<li>第一项<blockquote>
-<p>菜鸟教程<br>学的不仅是技术更是梦想</p>
-</blockquote>
-</li>
-<li>第二项</li>
-</ul>
-<hr>
-<hr>
-<hr>
-<hr>
-<ul>
-<li>列表内容</li>
-</ul>
-<ul>
-<li>列表内容</li>
-</ul>
-<ul>
-<li>列表内容</li>
-</ul>
-<p>注意：- + * 跟内容之间都要有一个空格</p>
-<ol>
-<li>列表内容</li>
-<li>列表内容</li>
-<li>列表内容</li>
-</ol>
-<p>注意：序号跟内容之间要有空格</p>
-<ol>
-<li>第一项：<ul>
-<li>第一项嵌套的第一个元素</li>
-<li>第一项嵌套的第二个元素</li>
-</ul>
-</li>
-<li>第二项：<ul>
-<li>第二项嵌套的第一个元素</li>
-<li>第二项嵌套的第二个元素<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt; 区块中使用列表</span><br><span class="line">&gt; 1. 第一项</span><br><span class="line">&gt; 2. 第二项</span><br><span class="line">&gt; + 第一项</span><br><span class="line">&gt; + 第二项</span><br><span class="line">&gt; + 第三项</span><br><span class="line"></span><br><span class="line">* 第一项</span><br><span class="line">    &gt; 菜鸟教程</span><br><span class="line">    &gt; 学的不仅是技术更是梦想</span><br><span class="line">* 第二项</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">----</span><br><span class="line">***</span><br><span class="line">*****</span><br><span class="line">- 列表内容</span><br><span class="line">+ 列表内容</span><br><span class="line">* 列表内容</span><br><span class="line"></span><br><span class="line">注意：- + * 跟内容之间都要有一个空格</span><br><span class="line"></span><br><span class="line">1. 列表内容</span><br><span class="line">2. 列表内容</span><br><span class="line">3. 列表内容</span><br><span class="line"></span><br><span class="line">注意：序号跟内容之间要有空格</span><br><span class="line"></span><br><span class="line">1. 第一项：</span><br><span class="line">    - 第一项嵌套的第一个元素</span><br><span class="line">    - 第一项嵌套的第二个元素</span><br><span class="line">2. 第二项：</span><br><span class="line">    - 第二项嵌套的第一个元素</span><br><span class="line">    - 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![alt 属性文本](图片地址)</span><br><span class="line">![alt 属性文本](图片地址 &quot;可选标题&quot;)</span><br><span class="line"></span><br><span class="line">图片alt就是显示在图片下面的文字，相当于对图片内容的解释。</span><br><span class="line">图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</span><br></pre></td></tr></table></figure>
-<img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标"></li>
-</ul>
-</li>
-</ol>
-<p><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" title="RUNOOB"></p>
-<p>这个链接用 1 作为网址变量 <a href="http://static.runoob.com/images/runoob-logo.png">RUNOOB</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
-<img src="http://static.runoob.com/images/runoob-logo.png" width="20%">
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)</span><br><span class="line"></span><br><span class="line">![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png &quot;RUNOOB&quot;)</span><br><span class="line"></span><br><span class="line">这个链接用 1 作为网址变量 [RUNOOB][1].</span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line"></span><br><span class="line">[1]: http://static.runoob.com/images/runoob-logo.png</span><br><span class="line"></span><br><span class="line">&lt;img src=&quot;http://static.runoob.com/images/runoob-logo.png&quot; width=&quot;20%&quot;&gt;</span><br></pre></td></tr></table></figure>
-
-<p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="超链接title">超链接名</a><br>title可加可不加</p>
-<p><a href="http://jianshu.com/">简书</a><br><a href="http://baidu.com/">百度</a></p>
-<p><a href="超链接地址" target="_blank">超链接名</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[超链接名](超链接地址 &quot;超链接title&quot;)</span><br><span class="line">title可加可不加</span><br><span class="line"></span><br><span class="line">[简书](http://jianshu.com)</span><br><span class="line">[百度](http://baidu.com)</span><br><span class="line"></span><br><span class="line">&lt;a href=&quot;超链接地址&quot; target=&quot;_blank&quot;&gt;超链接名&lt;/a&gt;</span><br></pre></td></tr></table></figure>
-
-<table>
-<thead>
-<tr>
-<th align="left">左对齐</th>
-<th align="right">右对齐</th>
-<th align="center">居中对齐</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">单元格123123</td>
-<td align="right">单元格123123</td>
-<td align="center">单元格123123</td>
-</tr>
-<tr>
-<td align="left">单元格</td>
-<td align="right">单元格</td>
-<td align="center">单元格</td>
-</tr>
-</tbody></table>
-<p>第二行分割表头和内容。</p>
-<ul>
-<li>有一个就行，为了对齐，多加了几个<br>文字默认居左</li>
-<li>两边加：表示文字居中</li>
-<li>右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>姓名</th>
-<th align="center">技能</th>
-<th align="right">排行</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>刘备</td>
-<td align="center">哭</td>
-<td align="right">大哥</td>
-</tr>
-<tr>
-<td>关羽</td>
-<td align="center">打</td>
-<td align="right">二哥</td>
-</tr>
-<tr>
-<td>张飞</td>
-<td align="center">骂</td>
-<td align="right">三弟</td>
-</tr>
-</tbody></table>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">| 左对齐 | 右对齐 | 居中对齐 |</span><br><span class="line">| :-----| ----: | :----: |</span><br><span class="line">| 单元格123123 | 单元格123123 | 单元格123123 |</span><br><span class="line">| 单元格 | 单元格 | 单元格 |</span><br><span class="line"></span><br><span class="line">第二行分割表头和内容。</span><br><span class="line">- 有一个就行，为了对齐，多加了几个</span><br><span class="line">文字默认居左</span><br><span class="line">- 两边加：表示文字居中</span><br><span class="line">- 右边加：表示文字居右</span><br><span class="line">注：原生的语法两边都要用 | 包起来。此处省略</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">姓名|技能|排行</span><br><span class="line">--|:--:|--:</span><br><span class="line">刘备|哭|大哥</span><br><span class="line">关羽|打|二哥</span><br><span class="line">张飞|骂|三弟</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p><code>代码内容</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">代码...</span><br><span class="line">代码...</span><br><span class="line">代码...</span><br></pre></td></tr></table></figure>
-
-
-]]></content>
       <categories>
         <category>markdown</category>
       </categories>
       <tags>
         <tag>markdown</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>随笔</title>
-    <url>/2022/03/13/read1/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>图床</title>
-    <url>/2022/03/13/%E5%9B%BE%E5%BA%93/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">壁紙</div>
-  <p>收藏的一些壁紙</p>
-  <a href='/Gallery/wallpaper'></a>
-  </figcaption>
-  </figure>
-  
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">漫威</div>
-  <p>關於漫威的圖片</p>
-  <a href='/Gallery/marvel'></a>
-  </figcaption>
-  </figure>
-  
-
-  <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
-  <figcaption>
-  <div class="gallery-group-name">OH MY GIRL</div>
-  <p>關於OH MY GIRL的圖片</p>
-  <a href='/Gallery/ohmygirl'></a>
-  </figcaption>
-  </figure>
-  
-</div>
-
-
-
-<div class="fj-gallery"><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/3f477865232b5c98bb142aa407e20287.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/6f50128f54222f6a8fa9d77090daf59d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/24f2e3df2ec8ddfc08c1721b92ae638a.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/42d2641fda9ee3c43eaf7b1ed11b6338.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61f45884e054a05f4a93698e18810c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/79e2e2284d98c0c02ec485e8f7856d77.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/96d1dc6370057e9c03992979baafc117.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/98def8e24101d79dfcd4399638e78781.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/358d8d8c6c6fa8373acf24afe514ec2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1833f805bf0df0b3a8c9a9b0aa9f4c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/2523f03da1fd3dde654efc78dfc67a19.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/38401f2676b49180f6404b32f53953f5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61936571517435c57aa0adc0bcdb1e4b.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a3c9cb6cbbdd270d5023ecd90d7569d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a130ef46b3d0a335b3363669c2ec11d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/abdea2aa72d0f89958624aee05677553.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/ae3d6756795a474e0e4bec390e340ab6.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/af5c422da005d7ac4d61b321e3b0189c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c7aad37368b9f68266f55c0dcade4ea9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/cb423f162652e4dfad5b5faca14ae5fe.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/dcb305d2815f6a4d79c2fd286722bebc.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e1b1106750c1e58e6ef779de9258f465.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e5ac9a1bef32e50286f33d59e7661fb3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e104d0d5dbcbe58bba51190d7f00e7c5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f3caa078c89b42754e39ad3e1e54b01c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f006be020ccffcf7344f69cb6693bdd3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f9ca7c9a21750a3b77980ede3dda1555.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f218a6515dd7ee864e10c44840f3d412.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/fcbedb457123653266df39181773613a.jpeg?raw=true"></p><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/71c833adf88cef06551b239df4d1afd9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/54778b5fada052460995d5cc22d58e1d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f6f3adf657ed56877458ffea4ae7ea8c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/bd9f847e4a7b79f4840274889c960bf7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/67e5b3c194c09282c4415f0d96e03c65.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/301405be86256b72ab8006d75044e6ab.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/82a2f3629fb1ce4703cdf1a71d4066c4.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c0a22528b68cd7e948fb8a8f96d0dab5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c6f82e76f3876732663482c22f53e4b7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1f05de532ec9f06457cc8afa2deb8541.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/8753f0aee2c2c1387384a89309d90493.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/040ccf67c2f59576d76c4bbb91a46a7f.jpeg?raw=true"></p>
-          </div>
-]]></content>
   </entry>
 </search>
