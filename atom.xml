@@ -6,7 +6,7 @@
   <link href="https://ruilearning.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruilearning.github.io/"/>
-  <updated>2022-03-16T14:18:45.148Z</updated>
+  <updated>2022-03-16T16:09:08.380Z</updated>
   <id>https://ruilearning.github.io/</id>
   
   <author>
@@ -17,11 +17,87 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>英语2</title>
+    <link href="https://ruilearning.github.io/2022/03/17/%E8%8B%B1%E8%AF%AD2/"/>
+    <id>https://ruilearning.github.io/2022/03/17/%E8%8B%B1%E8%AF%AD2/</id>
+    <published>2022-03-16T16:06:09.000Z</published>
+    <updated>2022-03-16T16:09:08.380Z</updated>
+    
+    
+    <summary type="html">英语</summary>
+    
+    
+    
+    <category term="英语" scheme="https://ruilearning.github.io/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="英语" scheme="https://ruilearning.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>199写作</title>
+    <link href="https://ruilearning.github.io/2022/03/17/199%E5%86%99%E4%BD%9C/"/>
+    <id>https://ruilearning.github.io/2022/03/17/199%E5%86%99%E4%BD%9C/</id>
+    <published>2022-03-16T16:05:48.000Z</published>
+    <updated>2022-03-16T16:08:05.386Z</updated>
+    
+    
+    <summary type="html">写作</summary>
+    
+    
+    
+    <category term="写作" scheme="https://ruilearning.github.io/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="写作" scheme="https://ruilearning.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>199逻辑</title>
+    <link href="https://ruilearning.github.io/2022/03/17/199%E9%80%BB%E8%BE%91/"/>
+    <id>https://ruilearning.github.io/2022/03/17/199%E9%80%BB%E8%BE%91/</id>
+    <published>2022-03-16T16:05:35.000Z</published>
+    <updated>2022-03-16T16:10:17.168Z</updated>
+    
+    
+    <summary type="html">逻辑</summary>
+    
+    
+    
+    <category term="逻辑" scheme="https://ruilearning.github.io/categories/%E9%80%BB%E8%BE%91/"/>
+    
+    
+    <category term="逻辑" scheme="https://ruilearning.github.io/tags/%E9%80%BB%E8%BE%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>199数学</title>
+    <link href="https://ruilearning.github.io/2022/03/17/199%E6%95%B0%E5%AD%A6/"/>
+    <id>https://ruilearning.github.io/2022/03/17/199%E6%95%B0%E5%AD%A6/</id>
+    <published>2022-03-16T16:04:55.000Z</published>
+    <updated>2022-03-16T16:09:45.704Z</updated>
+    
+    
+    <summary type="html">数学</summary>
+    
+    
+    
+    <category term="数学" scheme="https://ruilearning.github.io/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="数学" scheme="https://ruilearning.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022年03月16日总结</title>
     <link href="https://ruilearning.github.io/2022/03/16/2022%E5%B9%B403%E6%9C%8816%E6%97%A5%E6%80%BB%E7%BB%93/"/>
     <id>https://ruilearning.github.io/2022/03/16/2022%E5%B9%B403%E6%9C%8816%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2022-03-16T10:04:51.000Z</published>
-    <updated>2022-03-16T14:18:45.148Z</updated>
+    <updated>2022-03-16T15:56:06.852Z</updated>
     
     <content type="html"><![CDATA[<p>1</p>]]></content>
     
@@ -42,7 +118,7 @@
     <link href="https://ruilearning.github.io/2022/03/16/%E5%9B%BE%E5%BA%93/"/>
     <id>https://ruilearning.github.io/2022/03/16/%E5%9B%BE%E5%BA%93/</id>
     <published>2022-03-16T03:16:21.000Z</published>
-    <updated>2022-03-16T15:49:00.073Z</updated>
+    <updated>2022-03-16T15:54:30.034Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div><div class="fj-gallery"><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/3f477865232b5c98bb142aa407e20287.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/6f50128f54222f6a8fa9d77090daf59d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/24f2e3df2ec8ddfc08c1721b92ae638a.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/42d2641fda9ee3c43eaf7b1ed11b6338.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61f45884e054a05f4a93698e18810c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/79e2e2284d98c0c02ec485e8f7856d77.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/96d1dc6370057e9c03992979baafc117.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/98def8e24101d79dfcd4399638e78781.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/358d8d8c6c6fa8373acf24afe514ec2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1833f805bf0df0b3a8c9a9b0aa9f4c2f.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/2523f03da1fd3dde654efc78dfc67a19.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/38401f2676b49180f6404b32f53953f5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/61936571517435c57aa0adc0bcdb1e4b.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a3c9cb6cbbdd270d5023ecd90d7569d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/a130ef46b3d0a335b3363669c2ec11d2.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/abdea2aa72d0f89958624aee05677553.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/ae3d6756795a474e0e4bec390e340ab6.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/af5c422da005d7ac4d61b321e3b0189c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c7aad37368b9f68266f55c0dcade4ea9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/cb423f162652e4dfad5b5faca14ae5fe.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/dcb305d2815f6a4d79c2fd286722bebc.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e1b1106750c1e58e6ef779de9258f465.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e5ac9a1bef32e50286f33d59e7661fb3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/e104d0d5dbcbe58bba51190d7f00e7c5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f3caa078c89b42754e39ad3e1e54b01c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f006be020ccffcf7344f69cb6693bdd3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f9ca7c9a21750a3b77980ede3dda1555.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f218a6515dd7ee864e10c44840f3d412.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/fcbedb457123653266df39181773613a.jpeg?raw=true"></p><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/71c833adf88cef06551b239df4d1afd9.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/54778b5fada052460995d5cc22d58e1d.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f6f3adf657ed56877458ffea4ae7ea8c.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/bd9f847e4a7b79f4840274889c960bf7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/67e5b3c194c09282c4415f0d96e03c65.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/301405be86256b72ab8006d75044e6ab.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/82a2f3629fb1ce4703cdf1a71d4066c4.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c0a22528b68cd7e948fb8a8f96d0dab5.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c6f82e76f3876732663482c22f53e4b7.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/1f05de532ec9f06457cc8afa2deb8541.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/8753f0aee2c2c1387384a89309d90493.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/040ccf67c2f59576d76c4bbb91a46a7f.jpeg?raw=true"></p><p><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/cea740c3cbade2715c266dec1d7ad757.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/f5731de6421c7c4d05e4747fb347c052.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/ec71c3cb77a416b3a80bb6665d5d75a4.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/0497bb756fc60c2badc67d4929e54074.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/9eb12bb5cd4e0db6d4752beb5f308ffb.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/7c8fcab67efd30a2dc800e015154b464.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/d0dd2e7f6f06d149da510faf0b47c0b3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/503d7ba91f167bbdd2505cbeac85ac28.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/6661581b38153c9473ae367d13983f33.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/3a20ad986bce2b559f738bdb2412efd3.jpeg?raw=true"><br><img src="https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/c490283ccf939edbfd1eae88ed493b2d.jpeg?raw=true"></p>          </div>]]></content>
     
