@@ -1361,6 +1361,7 @@ your browser does not support the video tag
 <li>已经开始适当锻炼身体，尽量每天保证8k步!(正好晚上走了加刷墨墨)</li>
 <li>战线挺长！还有最后的7个月，加油！！！💪</li>
 <li>最近5月初节奏还不错，早上7点左右起床，晚上12点左右睡觉</li>
+<li>不能在陪跑了！！！200分要拿到！！！😎</li>
 </ol>
 <h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><p>系统课开始了</p>
 <ul>
@@ -1373,15 +1374,16 @@ your browser does not support the video tag
 </li>
 <li>第二周 5.9-5.15<ul>
 <li><input disabled type="checkbox"> 完成计算力复盘，并把文章完成整理,及时复习</li>
-<li><input disabled type="checkbox"> 估计没时间，需要全力以赴背10天单词，一天大约4个小时。</li>
-<li><input disabled type="checkbox"> 06.第三章应用题–01讲 </li>
-<li><input disabled type="checkbox"> 07.第三章应用题–02讲 </li>
-<li><input disabled type="checkbox"> 08.第三章应用题–03讲</li>
-<li><input disabled type="checkbox"> 09.第三章应用题–04讲</li>
+<li><input checked disabled type="checkbox"> 估计没时间，需要全力以赴背10天单词，一天大约4个小时。</li>
+<li><input checked disabled type="checkbox"> 06.第三章应用题–01讲 </li>
+<li><input checked disabled type="checkbox"> 07.第三章应用题–02讲</li>
+<li><input checked disabled type="checkbox"> 5月安排公开课</li>
 </ul>
 </li>
 <li>第三周 5.16-5.22<ul>
 <li><input disabled type="checkbox"> 完成计算力复盘，并把文章完成整理,及时复习</li>
+<li><input disabled type="checkbox"> 08.第三章应用题–03讲</li>
+<li><input disabled type="checkbox"> 09.第三章应用题–04讲</li>
 <li><input disabled type="checkbox"> 实数精讲</li>
 </ul>
 </li>
@@ -1395,15 +1397,15 @@ your browser does not support the video tag
 </li>
 </ul>
 <h1 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h1><ul>
-<li>基础起步<ul>
-<li><input disabled type="checkbox"> 01.判断与推理概述</li>
-<li><input disabled type="checkbox"> 02.”且、或、要么”的考点</li>
-<li><input disabled type="checkbox"> 03.”且、或、要么”的题型</li>
-<li><input disabled type="checkbox"> 04.”如果、只有”的考点</li>
-<li><input disabled type="checkbox"> 05.”如果、只有”的题型</li>
-<li><input disabled type="checkbox"> 06.”所有、有的”的考点与题型</li>
-<li><input disabled type="checkbox"> 07.”可能、必然”的考点与题型</li>
-<li><input disabled type="checkbox"> 08.关系的推理</li>
+<li>基础起步 第三周5.16-5.22 不过分吧!😑<ul>
+<li><input disabled type="checkbox"> 01.判断与推理概述 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 02.”且、或、要么”的考点 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 03.”且、或、要么”的题型 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 04.”如果、只有”的考点 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 05.”如果、只有”的题型 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 06.”所有、有的”的考点与题型 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 07.”可能、必然”的考点与题型 完成时间：2022年05月日</li>
+<li><input disabled type="checkbox"> 08.关系的推理 完成时间：2022年05月日</li>
 </ul>
 </li>
 <li>系统精讲<ul>
@@ -1424,23 +1426,24 @@ your browser does not support the video tag
 <h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><p>10天搞定考研单词完成！新东方！5.5-5.14<br>抽时间加入语法课程！</p>
 <ul>
 <li>第一周 5.1-5.8（母亲节）<ul>
-<li><input disabled type="checkbox"> 10天搞定考研单词完成！新东方！5.5-5.14</li>
-<li><input disabled type="checkbox"> 墨墨背单词 完成每日任务</li>
-<li><input disabled type="checkbox"> 全民英语背诵营完整版，方法-实战篇（有时间的话）</li>
+<li><input checked disabled type="checkbox"> 10天搞定考研单词完成！新东方！5.5-5.14</li>
+<li><input checked disabled type="checkbox"> 墨墨背单词 完成每日任务</li>
+<li><input checked disabled type="checkbox"> 全民英语背诵营完整版，方法-实战篇（有时间的话）</li>
 </ul>
 </li>
 <li>第二周 5.9-5.15<ul>
-<li><input disabled type="checkbox"> 早睡早起，起来去黄渠公园，搞起10天搞定考研单词早上背诵篇！</li>
-<li><input disabled type="checkbox"> 10天搞定考研单词完成！新东方！5.5-5.14</li>
-<li><input disabled type="checkbox"> 完成10天搞定考研单词第一次，从11天开始当月完成第一轮30天</li>
-<li><input disabled type="checkbox"> 墨墨背单词 完成每日任务</li>
-<li><input disabled type="checkbox"> 全民英语背诵营完整版，方法-实战篇（有时间的话）</li>
+<li><input checked disabled type="checkbox"> 早睡早起，起来去黄渠公园，搞起10天搞定考研单词早上背诵篇！</li>
+<li><input checked disabled type="checkbox"> 10天搞定考研单词完成！新东方！5.5-5.14</li>
+<li><input checked disabled type="checkbox"> 完成10天搞定考研单词第一次，从11天开始当月完成第一轮30天</li>
+<li><input checked disabled type="checkbox"> 墨墨背单词 完成每日任务</li>
+<li><input checked disabled type="checkbox"> 研定-彭忆句子结构</li>
 </ul>
 </li>
 <li>第三周 5.16-5.22<ul>
 <li><input disabled type="checkbox"> 每日精讲100天5篇,带着看不需要背诵</li>
 <li><input disabled type="checkbox"> 全民英语背诵营完整版，方法-实战篇</li>
 <li><input disabled type="checkbox"> 语法课程</li>
+<li><input disabled type="checkbox"> 研定-彭忆句子结构完成</li>
 </ul>
 </li>
 <li>第四周 5.23-5.29<ul>
@@ -1489,7 +1492,14 @@ your browser does not support the video tag
 <li>今年必须上岸，加油！！！</li>
 </ul>
 </li>
-<li>第二周 5.9-5.15</li>
+<li>第二周 5.9-5.15<ul>
+<li>成功结束10天搞定考研单词前12天，需要继续循环下去直到考试之前</li>
+<li>考研的同时，学英语雅思，准备考完之后开始考雅思。</li>
+<li>这次要达到看英语NBA原版不费力吧！</li>
+<li>数学继续学下去，及时复盘（这周就学了2课应用题，约6个小时，还有一节5月安排课程）</li>
+<li>逻辑没学！下周要加入了！时间也大题规划了</li>
+</ul>
+</li>
 <li>第三周 5.16-5.22</li>
 <li>第四周 5.23-5.29</li>
 <li>第五周</li>
@@ -2639,51 +2649,54 @@ Future task2              :         des4, after des3, 5d
 <tr>
 <td align="center"><em>第<code>6</code>天</em></td>
 <td align="center"><strong>F</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center"><strong>CEF</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center">2022年05月10日</td>
-<td align="center"></td>
+<td align="center"><del>2022年05月10日</del></td>
 </tr>
 <tr>
 <td align="center"><em>第<code>7</code>天</em></td>
 <td align="center"><strong>G</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center"><strong>DFG</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center">2022年05月11日</td>
-<td align="center"></td>
+<td align="center"><del>2022年05月11日</del></td>
 </tr>
 <tr>
 <td align="center"><em>第<code>8</code>天</em></td>
 <td align="center"><strong>AH</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center"><strong>EGH</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center">2022年05月12日</td>
-<td align="center"></td>
+<td align="center"><del>2022年05月12日</del></td>
 </tr>
 <tr>
 <td align="center"><em>第<code>9</code>天</em></td>
 <td align="center"><strong>BI</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center"><strong>FHI</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center">2022年05月13日</td>
-<td align="center"></td>
+<td align="center"><del>2022年05月13日</del></td>
 </tr>
 <tr>
 <td align="center"><em>第<code>10</code>天</em></td>
 <td align="center"><strong>CJ</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center"><strong>GIJ</strong></td>
-<td align="center"><code> </code></td>
+<td align="center"><code>完成</code></td>
 <td align="center">2022年05月14日</td>
-<td align="center"></td>
+<td align="center"><del>2022年05月14日</del></td>
 </tr>
 </tbody></table>
-<p><code>第四天 强度上来了，第8-10天 难度最大，每天半本书！加油!!!</code></p>
-<h1 id="时间安排图"><a href="#时间安排图" class="headerlink" title="时间安排图"></a>时间安排图</h1><p><code>我的选择-10天！💪</code><br><img src="/2022/05/07/10%E5%A4%A9%E6%90%9E%E5%AE%9A%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87-%E6%96%B0%E4%B8%9C%E6%96%B9/5b446d17N59ac16c4.jpg"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><ol>
+<li><code>第四天 强度上来了，第8-10天 难度最大，每天半本书！加油!!!</code></li>
+<li><code>完美按照计划完成 现在进行到了12天(2022年05月16日)，之后就是无限循环到考试了，晚上可以加入一篇阅读了，压力大减！</code></li>
+<li>加入杨亮老师的 方法实战 <h1 id="时间安排图"><a href="#时间安排图" class="headerlink" title="时间安排图"></a>时间安排图</h1><code>我的选择-10天！💪</code><br><img src="/2022/05/07/10%E5%A4%A9%E6%90%9E%E5%AE%9A%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87-%E6%96%B0%E4%B8%9C%E6%96%B9/5b446d17N59ac16c4.jpg"></li>
+</ol>
 <h1 id="相关理论知识"><a href="#相关理论知识" class="headerlink" title="相关理论知识"></a>相关理论知识</h1><p><a href="https://weibo.com/ttarticle/p/show?id=2309404074753345338608&infeed=1">原文地址— #十天搞定考研词汇# 攻略</a></p>
 <h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>科研证明：人的大脑一生中使用的只有1%—3%左右，不到10%，人的潜力是无限的。<code>只有想不到，没有做不到！</code><br>很多同学之所以感觉背诵单词极为痛苦，效果甚微，就源于方法错误。<br>根据德国心理学家艾宾浩斯在1872年提出的<code>艾宾浩斯记忆曲线和遗忘曲线</code>， 遗忘极为正常，单词之所以会忘，是因为很多同学像当年的我一样，每天只知背诵新词，旧词复习太少，<code>重复遍数不够</code>。<br>背单词其实极为简单，只要按照<code>科学规律定期进行重复</code>，就能确保牢记不忘！</p>
 <h2 id="最科学的背词大法"><a href="#最科学的背词大法" class="headerlink" title="最科学的背词大法"></a>最科学的背词大法</h2><h3 id="八大背词时间"><a href="#八大背词时间" class="headerlink" title="八大背词时间"></a>八大背词时间</h3><p>根据艾宾浩斯遗忘曲线，人脑遗忘有8个关键时间：<code>5分钟、半小时、12小时、1天、2天、4天、7天、15天</code>。<br>如果没有在这8个关键时间进行重复，人脑就会遗忘。<br>反之，只有按照这八大关键时间进行科学重复，才能确保牢记不忘。<br>下述的10天搞定英语词汇和20天搞定英语词汇的表格就是基于这八大背词时间，将本书中所有词汇按照科学规律，已经排列完成，只需要按图索骥、按表背诵即可。<br>本方法看似浪费时间，实则事半功倍。<br><code>须知大道至简，长痛不如短痛，快刀斩乱麻，才是记忆正途！</code><br><img src="/2022/05/07/10%E5%A4%A9%E6%90%9E%E5%AE%9A%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87-%E6%96%B0%E4%B8%9C%E6%96%B9/125ed0ecd3d96975c663b52dd243040149fe093f.jpg" alt="艾宾浩斯记忆曲线"></p>
