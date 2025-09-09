@@ -485,7 +485,7 @@
 
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs plaintext">hexo help  # 查看帮助<br>hexo version  #查看Hexo的版本<br>hexo algolia  # 更新search庫<br>hexo new &quot;postName&quot; #新建文章<br>hexo new post &quot;title&quot;  # 生成新文章：\source\_posts\title.md，可省略post<br>permalink: Hexo常用运营操作.html<br>hexo new page &quot;pageName&quot; #新建页面<br>hexo clean #清除部署緩存<br>hexo n == hexo new #新建文章<br>hexo g == hexo generate #生成静态页面至public目录<br>hexo s == hexo server #开启预览访问端口（默认端口4000，&#x27;ctrl + c&#x27;关闭server）<br>hexo d == hexo deploy #将.deploy目录部署到GitHub<br>hexo d -g #生成加部署<br>hexo s -g #生成加预览<br></code></pre></td></tr></table></figure>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs plaintext">发布正式<br>hexo clean &amp; hexo d &amp; hexo s<br><br>⭐️⭐️⭐️⭐️⭐️⭐️最常用<br>hexo 三连<br>hexo clean &amp; hexo s &amp; hexo g <br><br><br></code></pre></td></tr></table></figure>]]></content>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs plaintext">发布正式<br>hexo c &amp; hexo d &amp; hexo s<br><br>⭐️⭐️⭐️⭐️⭐️⭐️最常用<br>hexo 三连<br>hexo c &amp; hexo s &amp; hexo g <br><br><br></code></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>tech</category>
       </categories>
@@ -28223,99 +28223,6 @@ your browser does not support the video tag
       </tags>
   </entry>
   <entry>
-    <title>浙江-建德</title>
-    <url>//%E6%B5%99%E6%B1%9F-%E5%BB%BA%E5%BE%B7.html</url>
-    <content><![CDATA[<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><ul>
-<li>出行<ul>
-<li>杭州东站9：41出发，10：34到达建德站（💰58）</li>
-<li>1️⃣建德站打车🚖到严州古城（💰20.04）<br>严州古城门票免费，整体游玩时间🕑1.5h<br>我们十一点到达还有舞蹈杂技表演，整体商业化比较严重，到处都是酒店民宿，可逛性不强。但是城墙上的新安江景色超级好看，还有风，适合拍照。<br>美食：豆腐包🌟🌟🌟🌟 🌟<br>严州烤饼🌟 🌟 🌟 🌟<br>树叶豆腐🌟🌟🌟<br>枣糕🌟 🌟 🌟 🌟</li>
-</ul>
-</li>
-<li><h2 id="游玩-路线-严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村-严州古城-比较商业化，很多特产，尝了烤饼脆脆的还可以。-新安江农贸市场-买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。-大慈岩-因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐-新叶古村-爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了-附上游玩顺序-文昌阁→醉仙居→有序堂→双美堂→西山祠堂"><a href="#游玩-路线-严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村-严州古城-比较商业化，很多特产，尝了烤饼脆脆的还可以。-新安江农贸市场-买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。-大慈岩-因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐-新叶古村-爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了-附上游玩顺序-文昌阁→醉仙居→有序堂→双美堂→西山祠堂" class="headerlink" title="游玩- 路线  - 严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村- 严州古城:比较商业化，很多特产，尝了烤饼脆脆的还可以。- 新安江农贸市场:买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。- 大慈岩:因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐- 新叶古村:爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了  - 附上游玩顺序:文昌阁→醉仙居→有序堂→双美堂→西山祠堂"></a>游玩<br>- 路线<br>  - 严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村<br>- 严州古城:比较商业化，很多特产，尝了烤饼脆脆的还可以。<br>- 新安江农贸市场:买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。<br>- 大慈岩:因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐<br>- 新叶古村:爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了<br>  - 附上游玩顺序:文昌阁→醉仙居→有序堂→双美堂→西山祠堂</h2></li>
-</ul>
-<h1 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h1><h2 id="大慈岩"><a href="#大慈岩" class="headerlink" title="大慈岩"></a>大慈岩</h2><p>文旅卡（29.9购入，浙江省内可以去很多地方）免费进，⚠️注意提前购买，2小时后生效<br>徒步上山，走走停停，50min。全程3h，上山山顶走走看看+下山<br>缆车上山下来，还要走30min<br>双面佛，索道桥，千年银杏树</p>
-<p>丛林速滑 60元门票，这个可以有！全程爽歪歪啊！<br>玻璃栈道 40元门票，腿软星人，劝退</p>
-<h3 id="🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元-高铁接驳-景区公交-深度玩法）"><a href="#🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元-高铁接驳-景区公交-深度玩法）" class="headerlink" title="🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元+高铁接驳+景区公交+深度玩法）"></a>🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元+高铁接驳+景区公交+深度玩法）</h3><h4 id="核心亮点"><a href="#核心亮点" class="headerlink" title="核心亮点"></a><strong>核心亮点</strong></h4><p>✅ <strong>门票全免</strong>：大慈岩、灵栖洞、新叶古村凭杭州文旅卡直接入园，省160元！<br>✅ <strong>交通优化</strong>：高铁+公交无缝衔接，避开打车坑，全程费用透明！<br>✅ <strong>隐藏玩法</strong>：溶洞探秘、古村寻幽、古镇夜游，打卡《爸爸去哪儿》同款！</p>
-<h3 id="🌟-Day1：杭州→大慈岩→新叶古村"><a href="#🌟-Day1：杭州→大慈岩→新叶古村" class="headerlink" title="🌟 Day1：杭州→大慈岩→新叶古村"></a><strong>🌟 Day1：杭州→大慈岩→新叶古村</strong></h3><h4 id="🚄-高铁出行"><a href="#🚄-高铁出行" class="headerlink" title="🚄 高铁出行"></a>🚄 <strong>高铁出行</strong></h4><ul>
-<li><strong>班次选择</strong>：<br>① <strong>早班车</strong>：杭州东站→建德站（G3091次，7:55发车，8:35抵达，票价53元）。<br>② <strong>备选班次</strong>：杭州南站→建德站（G7425次，15:06发车，16:10抵达，票价49元）。</li>
-<li><strong>接驳公交</strong>：建德站出口直走50米至公交站，乘坐 <strong>K3路公交车</strong>（6:00-18:00，每20分钟一班，票价5元），1小时直达大慈岩景区。</li>
-</ul>
-<h4 id="🗻-上午：大慈岩核心游览"><a href="#🗻-上午：大慈岩核心游览" class="headerlink" title="🗻 上午：大慈岩核心游览"></a>🗻 <strong>上午：大慈岩核心游览</strong></h4><ul>
-<li><strong>门票</strong>：<strong>免票</strong>（原价80元，杭州文旅卡直接刷码入园）。</li>
-<li><strong>游览路线</strong>：<br>① <strong>步行登山（1.5小时）</strong>：入口→清音阁→木栈道→悬空寺（千年古刹悬于峭壁）→地藏王大殿→天然立佛观景台（拍照绝佳机位）。<br>② <strong>索道上下（上行50元&#x2F;下行40元）</strong>：直达山顶节省体力，适合带老人&#x2F;儿童。</li>
-<li>⚠️ <strong>贴士</strong>：<br>✅ 穿防滑鞋！部分石阶陡峭，带1L水+零食。<br>✅ 山顶无餐厅，建议自带干粮或下山用餐。</li>
-</ul>
-<h4 id="🚌-下午：新叶古村探秘"><a href="#🚌-下午：新叶古村探秘" class="headerlink" title="🚌 下午：新叶古村探秘"></a>🚌 <strong>下午：新叶古村探秘</strong></h4><ul>
-<li><strong>公交接驳</strong>：大慈岩景区门口公交站乘坐 <strong>南站-新叶专线</strong>（1小时1班，末班车16:10，票价5元），30分钟直达新叶古村。</li>
-<li><strong>门票</strong>：<strong>免票</strong>（原价60元，杭州文旅卡直接刷码入园）。</li>
-<li><strong>玩法</strong>：<br>① 漫步青石板路，打卡<code>有序堂``双美堂</code>等宗祠，感受叶氏家族文化。<br>② 秋季稻田金黄时，村外梯田拍照超美！<br>③ 可选《爸爸去哪儿》亲子体验项目（磨豆腐、推独轮车，另付费5-20元）。</li>
-<li>🍽️ <strong>晚餐推荐</strong>：新叶古村内<code>荷香园民宿</code>包吃住150元&#x2F;人，建德干菜鸭、豆腐鸡子等农家菜管饱。</li>
-</ul>
-<h4 id="🏨-住宿"><a href="#🏨-住宿" class="headerlink" title="🏨 住宿"></a>🏨 <strong>住宿</strong></h4><ul>
-<li><strong>推荐</strong>：新叶古村内<code>荷香园民宿</code>（步行5分钟到景区），徽派建筑风格，含早餐，价格约200元&#x2F;晚。</li>
-<li><strong>备选</strong>：寿昌镇<code>7天优品酒店</code>（近公交枢纽），标间180元&#x2F;晚，方便次日行程。</li>
-</ul>
-<h3 id="🌟-Day2：灵栖洞→梅城古镇→返程杭州"><a href="#🌟-Day2：灵栖洞→梅城古镇→返程杭州" class="headerlink" title="🌟 Day2：灵栖洞→梅城古镇→返程杭州"></a><strong>🌟 Day2：灵栖洞→梅城古镇→返程杭州</strong></h3><h4 id="🕳️-上午：灵栖洞奇幻之旅"><a href="#🕳️-上午：灵栖洞奇幻之旅" class="headerlink" title="🕳️ 上午：灵栖洞奇幻之旅"></a>🕳️ <strong>上午：灵栖洞奇幻之旅</strong></h4><ul>
-<li><strong>公交接驳</strong>：<br>① 新叶古村公交站乘坐 <strong>南站-新叶专线</strong> 返回寿昌镇（6:00-16:10，每30分钟一班，票价5元）。<br>② 寿昌镇公交站换乘 <strong>寿昌-灵栖洞专线</strong>（7:00-15:00，每小时一班，票价6元），30分钟直达灵栖洞。</li>
-<li><strong>门票</strong>：<strong>免票</strong>（原价80元，杭州文旅卡直接刷码入园）。</li>
-<li><strong>路线</strong>：<br>① <strong>灵泉洞</strong>：乘船探秘地下河（约10分钟），钟乳石倒映水中如仙境。<br>② <strong>清风洞</strong>：体验<code>天然空调</code>，夏季避暑绝佳地。<br>③ <strong>霭云洞</strong>：最大溶洞，石幔、石笋造型奇特，灯光秀超震撼。</li>
-<li>⚠️ <strong>贴士</strong>：<br>✅ 洞内湿滑，穿防滑鞋；清风洞风大，可备薄外套。<br>✅ 游船旺季需排队，建议早到（8:30前）避开人流。</li>
-</ul>
-<h4 id="🍜-午餐推荐"><a href="#🍜-午餐推荐" class="headerlink" title="🍜 午餐推荐"></a>🍜 <strong>午餐推荐</strong></h4><ul>
-<li><strong>寿昌镇</strong>：<code>阿毛炒粉干</code>（建德特色小吃），炒粉干+豆腐包套餐15元，本地人常去。</li>
-<li><strong>灵栖洞附近</strong>：农家乐吃土菜，推荐石斑鱼、玉米馃，人均40元。</li>
-</ul>
-<h4 id="🏯-下午：梅城古镇时光漫步"><a href="#🏯-下午：梅城古镇时光漫步" class="headerlink" title="🏯 下午：梅城古镇时光漫步"></a>🏯 <strong>下午：梅城古镇时光漫步</strong></h4><ul>
-<li><strong>公交接驳</strong>：灵栖洞公交站乘坐 <strong>寿昌-梅城专线</strong>（13:00、15:00发车，票价8元），1小时直达梅城古镇。</li>
-<li><strong>玩法</strong>：<br>① <strong>免费游览</strong>：逛青石板街、登古城墙（门票20元，需自费），俯瞰三江汇流。<br>② <strong>联票景点（20元）</strong>：浙大西迁旧址、清代邮局、文化实践中心，了解历史。<br>③ <strong>特色体验</strong>：品尝严州酥饼、豆腐包，观看非遗三都麻糍制作。</li>
-<li>🚢 <strong>备选活动</strong>：夜游新安江（门票80元，灯光秀+江风超爽），需提前预约。</li>
-</ul>
-<h4 id="🚄-返程杭州"><a href="#🚄-返程杭州" class="headerlink" title="🚄 返程杭州"></a>🚄 <strong>返程杭州</strong></h4><ul>
-<li><strong>公交接驳</strong>：梅城古镇公交站乘坐 <strong>梅城-建德站专线</strong>（末班车16:00，票价10元），1小时直达建德站。</li>
-<li><strong>高铁班次</strong>：建德站→杭州东站（G7303次，18:28发车，19:22抵达，票价53元）。</li>
-</ul>
-<h3 id="🧳-装备清单"><a href="#🧳-装备清单" class="headerlink" title="🧳 装备清单"></a>🧳 <strong>装备清单</strong></h3><ul>
-<li>登山包、防滑鞋、防晒帽（大慈岩山路晒）</li>
-<li>薄外套（灵栖洞恒温17℃）、充电宝、一次性雨衣</li>
-<li>身份证、杭州文旅卡（必带！）、现金（部分农家乐需现金支付）</li>
-</ul>
-<h3 id="💡-杭州文旅卡专属权益"><a href="#💡-杭州文旅卡专属权益" class="headerlink" title="💡 杭州文旅卡专属权益"></a>💡 <strong>杭州文旅卡专属权益</strong></h3><ol>
-<li><strong>门票全免</strong>：大慈岩、灵栖洞、新叶古村凭卡直接入园，无需预约。</li>
-<li><strong>快速通道</strong>：景区检票处刷码或身份证快速入园，无需排队购票。</li>
-<li><strong>保险购买</strong>：进入景区前需在售票窗口购买人身意外伤害保险（2元&#x2F;人）。</li>
-<li><strong>其他优惠</strong>：部分景区内项目（如大慈岩索道、灵栖洞游船）享折扣，具体咨询景区工作人员。</li>
-</ol>
-<h3 id="📌-避坑指南"><a href="#📌-避坑指南" class="headerlink" title="📌 避坑指南"></a>📌 <strong>避坑指南</strong></h3><ol>
-<li><strong>大慈岩</strong>：景区内香烛可自带，庙内购买较贵；悬空寺拍照避开人流高峰（上午10点前）。</li>
-<li><strong>新叶古村</strong>：村内部分祠堂需单独购票，联票更划算；避开周末节假日，游客较少。</li>
-<li><strong>灵栖洞</strong>：游船排队较长，建议早到；洞内无照明，紧跟导游或自备手电筒。</li>
-<li><strong>梅城古镇</strong>：古城墙联票20元，学生&#x2F;老人可享半价；夜游需提前1小时购票。</li>
-</ol>
-<h3 id="🌿-四季玩法"><a href="#🌿-四季玩法" class="headerlink" title="🌿 四季玩法"></a>🌿 <strong>四季玩法</strong></h3><ul>
-<li><strong>春（3-4月）</strong>：大慈岩杜鹃盛开，新叶古村油菜花田超美。</li>
-<li><strong>夏（6-8月）</strong>：灵栖洞避暑，夜游新安江（门票80元，灯光秀+江风超爽）。</li>
-<li><strong>秋（9-11月）</strong>：大慈岩红叶漫山，新叶古村晒秋场景出片。</li>
-<li><strong>冬（12-2月）</strong>：灵栖洞溶洞恒温，大慈岩偶尔可见雾凇。</li>
-</ul>
-<p><strong>📌 行程亮点</strong>：</p>
-<ul>
-<li><strong>门票省160元</strong>：大慈岩、灵栖洞、新叶古村凭杭州文旅卡全免！</li>
-<li><strong>交通零打车</strong>：高铁+公交无缝接驳，适合预算有限的游客。</li>
-<li><strong>深度体验</strong>：悬空寺、古村、溶洞、古镇一网打尽，文化与自然结合。</li>
-</ul>
-<p>收藏这篇攻略，2天玩透建德精华！出发前查好天气，穿舒适的鞋，带够水和零食，开启你的山水人文之旅吧～ 🏞️</p>
-<p>#杭州周边游 #建德攻略 #大慈岩 #新叶古村 #灵栖洞 #梅城古镇 #杭州文旅卡</p>
-]]></content>
-      <categories>
-        <category>live</category>
-        <category>travel</category>
-        <category>zhejiang</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>浙江-徒步路线</title>
     <url>//%E6%B5%99%E6%B1%9F-%E5%BE%92%E6%AD%A5%E8%B7%AF%E7%BA%BF.html</url>
     <content><![CDATA[<p>春天是徒步的好时节，杭州有九大热门徒步路线供您选择。这些路线涵盖了西湖景区、龙坞茶村、九溪十八涧等多个景点，难度适中，适合各种年龄段的徒步爱好者。下面，我们将为您详细介绍这九大热门徒步路线。</p>
@@ -29151,256 +29058,6 @@ your browser does not support the video tag
       </tags>
   </entry>
   <entry>
-    <title>浙江-嵊州+新昌</title>
-    <url>//%E6%B5%99%E6%B1%9F-%E5%B5%8A%E5%B7%9E+%E6%96%B0%E6%98%8C.html</url>
-    <content><![CDATA[<h1 id="✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄"><a href="#✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄" class="headerlink" title="✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄"></a>✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄</h1><h3 id="📅-第一天：新昌山水暴走日"><a href="#📅-第一天：新昌山水暴走日" class="headerlink" title="📅 第一天：新昌山水暴走日"></a>📅 <strong>第一天：新昌山水暴走日</strong></h3><p><strong>总花费：433.82元</strong><br><strong>关键词：丹霞徒步+千年佛国+新昌夜宵天花板</strong></p>
-<h4 id="🚄-交通篇"><a href="#🚄-交通篇" class="headerlink" title="🚄 交通篇"></a>🚄 <strong>交通篇</strong></h4><ul>
-<li><strong>杭州→新昌</strong>：高铁G7363（7:34-8:25）💰61元，出站秒乘 <strong>F101公交</strong>（2元）直达十九峰，9:10发车，1小时直达千丈幽谷入口，晕车党建议坐前排！</li>
-</ul>
-<h4 id="🏞️-景点篇"><a href="#🏞️-景点篇" class="headerlink" title="🏞️ 景点篇"></a>🏞️ <strong>景点篇</strong></h4><ol>
-<li><p><strong>穿岩十九峰</strong></p>
-<ul>
-<li>门票💰60元，必打卡 <strong>飞龙栈道</strong>（玻璃观景台+999阶台阶），恐高者慎入！全程2.5小时，俯瞰超震撼。</li>
-<li>下山后乘公交至 <strong>新昌西站</strong>（2元），换乘至大佛寺（2元），无缝衔接！</li>
-</ul>
-</li>
-<li><p><strong>新昌大佛寺</strong></p>
-<ul>
-<li>提前1天网购门票💰65元（原价70元），14:45入园，17:50出园，3小时逛完核心景点：<br>✔️ 江南第一大佛（16米弥勒像，震撼！）<br>✔️ 般若谷（瀑布+玻璃栈道，拍照出片）<br>✔️ 佛心素面（15元&#x2F;碗，汤头清甜）</li>
-</ul>
-</li>
-</ol>
-<h4 id="🍽️-美食篇"><a href="#🍽️-美食篇" class="headerlink" title="🍽️ 美食篇"></a>🍽️ <strong>美食篇</strong></h4><ul>
-<li><strong>午餐</strong>：沃洲路62号羊棒骨<br>羊棒骨+豆腐煎包+炒年糕，酱香浓郁，人均50元吃到撑！</li>
-<li><strong>下午茶</strong>：蜜雪冰城柠檬水💰4元</li>
-<li><strong>夜宵</strong>：热电路炒年糕+阿锋三角饺<ul>
-<li>炒年糕（豆腐+肉丝+笋丝，19元）+糟肉（8元），烟火气十足！</li>
-<li>芋泥三角饺💰14元，外皮酥脆内馅绵密，原地封神！</li>
-</ul>
-</li>
-</ul>
-<h4 id="🏨-住宿篇"><a href="#🏨-住宿篇" class="headerlink" title="🏨 住宿篇"></a>🏨 <strong>住宿篇</strong></h4><p>兔毛市场附近经济型酒店💰100元，干净卫生，步行5分钟到公交站，适合赶早班车的宝子～</p>
-<h3 id="📅-第二天：嵊州文化美食日"><a href="#📅-第二天：嵊州文化美食日" class="headerlink" title="📅 第二天：嵊州文化美食日"></a>📅 <strong>第二天：嵊州文化美食日</strong></h3><p><strong>总花费：198.29元</strong><br><strong>关键词：汤包天花板+春饼排队王+糯叽叽小吃</strong></p>
-<h4 id="🍳-早餐篇"><a href="#🍳-早餐篇" class="headerlink" title="🍳 早餐篇"></a>🍳 <strong>早餐篇</strong></h4><ul>
-<li><strong>朝阳早餐店</strong>：蒸汤包+鲜肉包+放汤包（馄饨）💰23元，汤包皮薄馅鲜，汤头浓郁！</li>
-<li><strong>胖妹猪头肉春饼</strong>：套餐二（春饼+蛋+油饺+臭豆腐+香肠+里脊肉+油煎蛋+猪头肉）💰20元，8:20开始排队，等了50分钟！春饼现做，酥脆到掉渣，建议错峰打卡！</li>
-</ul>
-<h4 id="🚲-citywalk篇"><a href="#🚲-citywalk篇" class="headerlink" title="🚲 citywalk篇"></a>🚲 <strong>citywalk篇</strong></h4><ul>
-<li><strong>嵊州古城墙</strong>：免费打卡，感受剡溪风光，适合拍古风照～</li>
-<li><strong>嵊州城隍庙</strong>：门票💰0元，元代建筑<code>溪山第一楼</code>，木雕细节惊艳！</li>
-<li><strong>富豪街小吃扫街</strong>：<br>✔️ 西桥米果：全家福米果+青麻球💰27元，艾草清香超治愈！<br>✔️ 一景鲜奶：本地鲜奶冰淇淋💰12元，奶味浓到上头！<br>✔️ 老袁炒年糕：肉丝炒年糕💰15元（个人觉得一般，可尝试其他店）</li>
-</ul>
-<h4 id="🚄-返程篇"><a href="#🚄-返程篇" class="headerlink" title="🚄 返程篇"></a>🚄 <strong>返程篇</strong></h4><p>嵊州新昌站→杭州东站 G194（14:59-15:41）💰69元，结束快乐旅程～</p>
-<h3 id="💰-总预算（2天1夜）"><a href="#💰-总预算（2天1夜）" class="headerlink" title="💰 总预算（2天1夜）"></a>💰 <strong>总预算（2天1夜）</strong></h3><ul>
-<li>交通：61+2+2+2+69&#x3D;136元</li>
-<li>门票：60+65&#x3D;125元</li>
-<li>住宿：100元</li>
-<li>吃喝：50+4+27+7+14+18.82+3.5+23+20+8+37+12+15+4.79&#x3D;223.11元<br><strong>合计：676.11元</strong></li>
-</ul>
-<h3 id="⚠️-避坑小贴士"><a href="#⚠️-避坑小贴士" class="headerlink" title="⚠️ 避坑小贴士"></a>⚠️ <strong>避坑小贴士</strong></h3><ol>
-<li>十九峰公交F101每天仅6班，建议掐点候车，末班车17:30！</li>
-<li>胖妹春饼排队超久，可先买其他小吃垫肚子～</li>
-<li>嵊州→新昌公交51路7分钟一班，末班车18:10，别错过！</li>
-</ol>
-<p>📸 <strong>拍照点推荐</strong></p>
-<ul>
-<li>十九峰飞龙栈道（广角拍悬崖）</li>
-<li>大佛寺放生池（拍大佛倒影）</li>
-<li>嵊州古城墙（傍晚拍剡溪日落）</li>
-</ul>
-<p>#杭州周边游 #新昌嵊州攻略 #穷游打卡 #美食探店 #周末去哪儿<br>👉 关注我，解锁更多江浙沪小众路线～</p>
-<p>（附：行程视频已更新，戳主页看沉浸式游玩vlog！）</p>
-<hr>
-<h1 id="🗺️-新昌大佛寺「0折返全景路线」优化版"><a href="#🗺️-新昌大佛寺「0折返全景路线」优化版" class="headerlink" title="🗺️ 新昌大佛寺「0折返全景路线」优化版"></a>🗺️ <strong>新昌大佛寺「0折返全景路线」优化版</strong></h1><blockquote>
-<p>大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口<br><strong>总时长</strong>：4小时 | <strong>步行距离</strong>：约5公里 | <strong>体力消耗</strong>：中等</p>
-</blockquote>
-<h3 id="🌟-分段详解-打卡攻略"><a href="#🌟-分段详解-打卡攻略" class="headerlink" title="🌟 分段详解 &amp; 打卡攻略"></a>🌟 <strong>分段详解 &amp; 打卡攻略</strong></h3><h4 id="1-地质与禅意开篇（0-75小时）"><a href="#1-地质与禅意开篇（0-75小时）" class="headerlink" title="1. 地质与禅意开篇（0.75小时）"></a><strong>1. 地质与禅意开篇（0.75小时）</strong></h4><p><strong>路线</strong>：大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔</p>
-<ul>
-<li><strong>木化石林</strong>（15分钟）<ul>
-<li>3亿年硅化木群，推荐拍摄树干与天空的剪影，阳光透过树叶光斑绝美。</li>
-</ul>
-</li>
-<li><strong>露天弥勒</strong>（10分钟）<ul>
-<li>20米高布袋和尚像，右手边小路可拍<code>佛抱青山</code>构图。</li>
-</ul>
-</li>
-<li><strong>栖光净院→万佛宝塔</strong>（30分钟）<ul>
-<li>沿石阶上山，净院纯白建筑适合拍禅意照；万佛宝塔登塔需15分钟，顶层可俯瞰整个景区（恐高者慎入）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-自然奇观与核心文化（1-5小时）"><a href="#2-自然奇观与核心文化（1-5小时）" class="headerlink" title="2. 自然奇观与核心文化（1.5小时）"></a><strong>2. 自然奇观与核心文化（1.5小时）</strong></h4><p><strong>路线</strong>：万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿</p>
-<ul>
-<li><strong>般若谷</strong>（40分钟）<ul>
-<li><strong>必做两件事</strong>：<br>✔️ 玻璃栈道拍瀑布全景（上午10点前光线最佳）；<br>✔️ 谷底潭水旁拍汉服倒影（可租景区汉服，50元&#x2F;小时）。</li>
-</ul>
-</li>
-<li><strong>放生池→天王殿</strong>（20分钟）<ul>
-<li>放生池喂锦鲤（鱼食5元&#x2F;包），天王殿东侧摩崖石刻有朱熹手迹<code>溪山第一</code>。</li>
-</ul>
-</li>
-<li><strong>江南第一大佛→大雄宝殿</strong>（30分钟）<ul>
-<li>大佛殿内禁止拍照，可在殿外平台仰拍佛像全景；大雄宝殿后有1200年树龄的古银杏（秋季必看）。</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-石窟艺术与静心收尾（1小时）"><a href="#3-石窟艺术与静心收尾（1小时）" class="headerlink" title="3. 石窟艺术与静心收尾（1小时）"></a><strong>3. 石窟艺术与静心收尾（1小时）</strong></h4><p><strong>路线</strong>：大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口</p>
-<ul>
-<li><strong>千佛禅院</strong>（20分钟）<ul>
-<li>1075尊小石佛密集排列，用长焦镜头拍局部细节，避开正午强光。</li>
-</ul>
-</li>
-<li><strong>双林石窟</strong>（25分钟）<ul>
-<li>37米涅槃卧佛，洞口右侧<code>佛足</code>位置可拍<code>摸佛脚</code>祈福照（工作人员指导姿势）。</li>
-</ul>
-</li>
-<li><strong>白云湖→佛心广场</strong>（15分钟）<ul>
-<li>湖边步道可休息，推荐买文创雪糕（18元）打卡，出口前可在佛心广场领免费香（每日限量）。</li>
-</ul>
-</li>
-</ul>
-<h3 id="⚠️-路线优化关键点"><a href="#⚠️-路线优化关键点" class="headerlink" title="⚠️ 路线优化关键点"></a>⚠️ <strong>路线优化关键点</strong></h3><ol>
-<li><strong>体力分配科学</strong>：<ul>
-<li>前1.5小时集中登山（栖光净院→万佛宝塔→般若谷），后2小时平缓游览（石刻→大佛→石窟）。</li>
-<li>般若谷至大雄宝殿段设休息点（佛心广场旁长椅），提供免费热水。</li>
-</ul>
-</li>
-<li><strong>错峰建议</strong>：<ul>
-<li>万佛宝塔、般若谷上午人少，建议9:00前抵达景区，10:30前完成登山段。</li>
-<li>双林石窟下午4点后光线柔和，适合拍卧佛特写。</li>
-</ul>
-</li>
-</ol>
-<h3 id="📸-摄影黄金点位"><a href="#📸-摄影黄金点位" class="headerlink" title="📸 摄影黄金点位"></a>📸 <strong>摄影黄金点位</strong></h3><table>
-<thead>
-<tr>
-<th>景点</th>
-<th>最佳拍摄位</th>
-<th>器材建议</th>
-<th>构图技巧</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>般若谷瀑布</td>
-<td>玻璃栈道中段</td>
-<td>手机广角&#x2F;微单</td>
-<td>低角度仰拍，人物居中站定</td>
-</tr>
-<tr>
-<td>江南第一大佛</td>
-<td>大雄宝殿正对面平台</td>
-<td>单反长焦</td>
-<td>压缩感构图，突出佛像威严</td>
-</tr>
-<tr>
-<td>双林石窟卧佛</td>
-<td>洞口左侧5米处</td>
-<td>手机夜景模式</td>
-<td>开启人像模式，虚化背景</td>
-</tr>
-<tr>
-<td>万佛宝塔全景</td>
-<td>栖光净院后方小山坡</td>
-<td>无人机</td>
-<td>环绕运镜，展现宝塔与青山</td>
-</tr>
-</tbody></table>
-<h3 id="🍽️-路线配套服务"><a href="#🍽️-路线配套服务" class="headerlink" title="🍽️ 路线配套服务"></a>🍽️ <strong>路线配套服务</strong></h3><ul>
-<li><strong>餐饮推荐</strong>：<ul>
-<li>般若谷出口<code>禅意咖啡</code>（竹筒奶茶18元）</li>
-<li>佛心素面馆（素面+素鸡20元，大雄宝殿旁）</li>
-</ul>
-</li>
-<li><strong>交通贴士</strong>：<ul>
-<li>景区入口有免费寄存柜（限2小时），大件行李可存游客中心（5元&#x2F;天）。</li>
-<li>出口处公交2路直达新昌客运中心（末班车18:00）。</li>
-</ul>
-</li>
-</ul>
-<h3 id="📌-用户路线Q-A"><a href="#📌-用户路线Q-A" class="headerlink" title="📌 用户路线Q&amp;A"></a>📌 <strong>用户路线Q&amp;A</strong></h3><p><strong>Q：原路线中的<code>寿露天弥勒</code>是否为<code>露天弥勒</code>？</strong><br>A：是同一景点，官方名称为<code>露天弥勒</code>，俗称<code>寿佛</code>，指布袋和尚雕像。</p>
-<p><strong>Q：千佛禅院和双林石窟哪个更值得停留？</strong><br>A：千佛禅院胜在历史感（南朝遗存），双林石窟胜在视觉冲击（37米卧佛），建议各预留20分钟。</p>
-<p>按此路线，既能深度感受千年佛国的文化底蕴，又能高效打卡自然与人文奇观，全程无折返，轻松不累！ 🏯✨</p>
-<p>#新昌大佛寺攻略 #浙江寺庙游 #摄影路线 #周末徒步 #江浙沪旅游</p>
-<hr>
-<h1 id="复盘"><a href="#复盘" class="headerlink" title="复盘"></a>复盘</h1><p>复盘时间: 2025年05月19日</p>
-<h2 id="流水账-原版"><a href="#流水账-原版" class="headerlink" title="流水账 原版"></a>流水账 原版</h2><ul>
-<li>第一天<br>花费: 61+2+60+20+4+50+4+65+66+27+7+14+18.82+35&#x3D;433.82<ul>
-<li>高铁出发 杭州东站-&gt;嵊州新昌站 G7363 2025年05月17日 07:34-08:25  51分钟 61元</li>
-<li>嵊州新昌站公交F101，2元。 9:10出发去十九峰景区(千丈幽谷景区)，1个小时到，10:05到达景区门口，进入景区，票价60元。</li>
-<li>游玩2个多小时，登999阶台阶，走飞龙栈道+20元，观千丈幽谷，12点半出景区，1点公交到西站，换成公交抵达大佛景区，费用2+2元。</li>
-<li>步行几百米到沃洲路62号羊棒骨吃午餐，羊棒骨+绿豆汤+豆腐煎包+炒年糕，花费50元。</li>
-<li>吃完饭，买了一杯蜜雪冰城柠檬水4元，然后去大佛寺景区玩，提前一天订票省10元，花费70元-5元优惠券。2025年05月17日14:45进景区，2025年05月17日17:50出景区，大约游玩3小时。</li>
-<li>出发去宾馆，在兔毛市场附近，办理入住，花费66元。</li>
-<li>休息到7:30分，去热电路炒年糕吃东西。27元(豆腐+香肠+笋丝+肉丝+鸡蛋丝，炒年糕19+小份糟肉8)+7元喝的。</li>
-<li>吃完逛逛新昌县，之后继续吃阿锋三角饺，芋泥馅三角饺YYDS，花费14元。</li>
-<li>然后买了点水果，蓝莓+沃柑+山竹花费18.82元。</li>
-<li>之后买了一瓶大桶水+3.5元，回去睡觉。</li>
-<li>做完一整天的视频素材，然后睡觉！</li>
-</ul>
-</li>
-<li>第二天<br>花费: 23+20+8+7.5+2+37+12+15+4.79+69&#x3D;198.29<ul>
-<li>早上7点半起床后，去了朝阳早餐店，点了招牌蒸汤包+包皮豆腐鲜肉包+放汤包(带汤馄饨)花费23元。</li>
-<li>然后去吃胖妹猪头肉春饼，套餐二 春饼+蛋+油饺+臭豆腐+香肠+里脊肉+油煎蛋+猪头肉，8点20排队，排了50多分钟，可真慢啊！花费20元。</li>
-<li>吃了一半，然后去买锅拉头+菜，花费8元。</li>
-<li>吃了几口，回宾馆，收拾，一共骑了3次电车，2.5+1.5+3.5&#x3D;7.5元，出发去嵊州，公交2元。</li>
-<li>11点到达嵊州宝龙广场，然后步行至东前街-&gt;古城墙-&gt;剡禾记-&gt;嵊州城隍庙。</li>
-<li>玩完之后步行至富豪街，买西桥米果，花费27(全家福+招牌青麻球)+10(甜米酒)&#x3D;37元。</li>
-<li>之后，转转富豪街，找好吃的。找到一个一景鲜奶，买了个冰淇淋+12元。</li>
-<li>吃过之后，又来了一份老袁炒年糕，一直觉得炒年糕不好吃+1，花费15元。</li>
-<li>本来想去越剧小镇转转的，没赶上车，买了瓶茶π+4.79元，索性改签回杭州。</li>
-<li>2025年05月18日14:05到达，嵊州新昌站。高铁出发 嵊州新昌站-&gt;杭州东站 G194 2025年05月18日 14:59-15:41  42分钟 69元。</li>
-<li>到家，洗刷，洗衣服，继续吃。。。</li>
-</ul>
-</li>
-</ul>
-<h2 id="总花费"><a href="#总花费" class="headerlink" title="总花费"></a>总花费</h2><p>总花费:433.82+198.29&#x3D;632.11元。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>非常值得，总体体验不错，有时间多陪家人，有钱就旅旅游，没钱就逛逛公园。人间值得！</p>
-<hr>
-<h1 id="景点盘点"><a href="#景点盘点" class="headerlink" title="景点盘点"></a>景点盘点</h1><ul>
-<li><p><strong>飞龙栈道</strong>：9:30-11:30（含玻璃观景台拍照，注意夏令时15:00停止入场）。</p>
-</li>
-<li><p><strong>千丈幽谷</strong>：11:30-12:30（徒步峡谷石板路，感受丹霞地貌）。</p>
-</li>
-<li><p><strong>重阳宫</strong>：12:30-13:30（若时间充裕，道教文化景点，门票40元）。</p>
-</li>
-<li><p><strong>江南第一大佛</strong>（亚洲第一卧佛）：开凿于南朝的16米弥勒石窟，香火鼎盛，建议请讲解员（30元&#x2F;小时）了解历史背景。</p>
-</li>
-<li><p><strong>般若谷</strong>：以<code>佛教文化</code>为主题的峡谷景观，夏季避暑胜地，拍照出片率高。</p>
-</li>
-<li><p><strong>木化石恐龙园</strong>：适合亲子游客，近距离观察1亿年前的硅化木化石。</p>
-</li>
-</ul>
-<hr>
-<h1 id="📌Tips"><a href="#📌Tips" class="headerlink" title="📌Tips"></a>📌Tips</h1><p>⏰️周一-周日6：00-17：00<br>🪪绍兴身份🆔免票，提前预约💰66，正常💰80<br>🪪大佛寺里的每个景点都别错过看景区路标很清楚！边走边逛不累的，深度游线路其实慢速度<code>四个小时</code>也能走完</p>
-<p>佛心素面馆（江南第一大佛旁）：15 元 &#x2F; 碗，素面 + 素鸡套餐，汤头用香菇熬制，本地人私藏款！<br>出口处 <code>禅意咖啡</code>：竹筒奶茶 + 禅意包装，拍照发圈神器～</p>
-<p>大佛寺风景区<br>新昌大佛寺「0折返全景路线」🚶‍♀️</p>
-<blockquote>
-<p>大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口<br><strong>总时长</strong>：4小时 | <strong>步行距离</strong>：约5公里 | <strong>体力消耗</strong>：中等</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>live</category>
-        <category>travel</category>
-        <category>zhejiang</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浙江-桐庐</title>
-    <url>//%E6%B5%99%E6%B1%9F-%E6%A1%90%E5%BA%90.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>live</category>
-        <category>travel</category>
-        <category>zhejiang</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>浙江-湖州</title>
     <url>//%E6%B5%99%E6%B1%9F-%E6%B9%96%E5%B7%9E.html</url>
     <content><![CDATA[<h1 id="莫干山"><a href="#莫干山" class="headerlink" title="莫干山"></a>莫干山</h1><ul>
@@ -29507,7 +29164,35 @@ your browser does not support the video tag
     <title>浙江</title>
     <url>//%E6%B5%99%E6%B1%9F.html</url>
     <content><![CDATA[<p>🔆🔅♻️🖼📒📖📅☘️🔥⭐️🌼🌎🌿</p>
-<h1 id="盘点"><a href="#盘点" class="headerlink" title="盘点"></a>盘点</h1><h2 id="寺庙"><a href="#寺庙" class="headerlink" title="寺庙"></a>寺庙</h2><ul>
+<h1 id="城市记录"><a href="#城市记录" class="headerlink" title="城市记录"></a>城市记录</h1><h3 id="杭州市"><a href="#杭州市" class="headerlink" title="杭州市"></a><strong>杭州市</strong></h3><ul>
+<li><a href="%E6%B5%99%E6%B1%9F-%E5%BE%92%E6%AD%A5%E8%B7%AF%E7%BA%BF">浙江-徒步路线</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%9D%AD%E5%B7%9E3%E6%97%A5%E6%B8%B8">浙江-杭州3日游</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%9D%AD%E5%B7%9E10%E6%97%A5%E6%B8%B8">浙江-杭州10日游</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%A1%90%E5%BA%90%E5%BB%BA%E5%BE%B7">浙江-桐庐建德</a></li>
+</ul>
+<h3 id="宁波市"><a href="#宁波市" class="headerlink" title="宁波市"></a><strong>宁波市</strong></h3><h3 id="温州市"><a href="#温州市" class="headerlink" title="温州市"></a><strong>温州市</strong></h3><ul>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%B8%A9%E5%B7%9E">浙江-温州</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%B8%A9%E5%B7%9E-%E4%B9%89%E4%B9%8C">浙江-温州-义乌</a></li>
+</ul>
+<h3 id="湖州市"><a href="#湖州市" class="headerlink" title="湖州市"></a><strong>湖州市</strong></h3><ul>
+<li><a href="%E6%B5%99%E6%B1%9F-%E6%B9%96%E5%B7%9E">浙江-湖州</a></li>
+</ul>
+<h3 id="嘉兴市"><a href="#嘉兴市" class="headerlink" title="嘉兴市"></a><strong>嘉兴市</strong></h3><ul>
+<li>乌镇</li>
+<li>西塘古镇</li>
+</ul>
+<h3 id="绍兴市"><a href="#绍兴市" class="headerlink" title="绍兴市"></a><strong>绍兴市</strong></h3><ul>
+<li><a href="%E6%B5%99%E6%B1%9F-%E7%BB%8D%E5%85%B4">浙江-绍兴</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E7%BB%8D%E5%85%B4-%E5%B5%8A%E5%B7%9E+%E6%96%B0%E6%98%8C">浙江-绍兴-嵊州+新昌</a></li>
+<li><a href="%E6%B5%99%E6%B1%9F-%E7%BB%8D%E5%85%B4-%E8%AF%B8%E6%9A%A8">浙江-绍兴-诸暨</a></li>
+</ul>
+<h3 id="金华市"><a href="#金华市" class="headerlink" title="金华市"></a><strong>金华市</strong></h3><ul>
+<li>诸葛八卦村</li>
+</ul>
+<h3 id="衢州市"><a href="#衢州市" class="headerlink" title="衢州市"></a><strong>衢州市</strong></h3><h3 id="舟山市"><a href="#舟山市" class="headerlink" title="舟山市"></a><strong>舟山市</strong></h3><h3 id="台州市"><a href="#台州市" class="headerlink" title="台州市"></a><strong>台州市</strong></h3><ul>
+<li><a href="%E6%B5%99%E6%B1%9F-%E5%8F%B0%E5%B7%9E">浙江-台州</a></li>
+</ul>
+<h3 id="丽水市"><a href="#丽水市" class="headerlink" title="丽水市"></a><strong>丽水市</strong></h3><h1 id="盘点"><a href="#盘点" class="headerlink" title="盘点"></a>盘点</h1><h2 id="寺庙"><a href="#寺庙" class="headerlink" title="寺庙"></a>寺庙</h2><ul>
 <li>✅️灵隐寺飞来峰</li>
 <li>✅️️永福寺</li>
 <li>✅️️韬光寺</li>
@@ -29583,15 +29268,15 @@ your browser does not support the video tag
 <li>中国大竹海景区</li>
 <li>莫干山风景名胜区</li>
 <li>中国竹子博览园</li>
-<li>南浔古镇</li>
-<li>乌镇风景区</li>
+<li>✅南浔古镇</li>
+<li>✅乌镇风景区</li>
 <li>天目山景区</li>
 <li>垂云通天河</li>
 <li>瑶琳仙境</li>
 <li>大奇山国家森林公园</li>
 <li>严子陵钓台-富春江小三峡</li>
 <li>新叶古村</li>
-<li>大慈岩风景区</li>
+<li>✅大慈岩风景区</li>
 <li>千岛湖风景区</li>
 <li>三清山国家级旅游风景区</li>
 <li>望仙谷景区</li>
@@ -29622,7 +29307,7 @@ your browser does not support the video tag
 </tr>
 </thead>
 <tbody><tr>
-<td>⭐️ 岳庙</td>
+<td>✅️ 岳庙</td>
 <td>1小时</td>
 </tr>
 <tr>
@@ -29646,7 +29331,7 @@ your browser does not support the video tag
 <td>3小时</td>
 </tr>
 <tr>
-<td>⭐️ 钱王祠</td>
+<td>✅️ 钱王祠</td>
 <td>1小时</td>
 </tr>
 <tr>
@@ -29734,7 +29419,7 @@ your browser does not support the video tag
 <div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/shzjwlk.jpg" alt="shzjwlk"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/hangzhou.png" alt="hangzhou"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/ningbo.png" alt="ningbo"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/lishui.png" alt="lishui"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/taizhou.png" alt="taizhou"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/zhoushan.png" alt="zhoushan"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/quzhou.png" alt="quzhou"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jinhua.png" alt="jinhua"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/shaoxing.png" alt="shaoxing"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jiaxing.png" alt="jiaxing"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/huzhou.png" alt="huzhou"><br><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/wenzhou.png" alt="wenzhou"></p>
           </div>
 
-<h3 id="杭州市"><a href="#杭州市" class="headerlink" title="杭州市"></a><strong>杭州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/hangzhou.png" alt="hangzhou"></p>
+<h3 id="杭州市-1"><a href="#杭州市-1" class="headerlink" title="杭州市"></a><strong>杭州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/hangzhou.png" alt="hangzhou"></p>
           </div>
 
 <table>
@@ -29837,7 +29522,7 @@ your browser does not support the video tag
 <td>全年开放，具体时间以景区通知为准</td>
 </tr>
 </tbody></table>
-<h3 id="宁波市"><a href="#宁波市" class="headerlink" title="宁波市"></a><strong>宁波市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/ningbo.png" alt="ningbo"></p>
+<h3 id="宁波市-1"><a href="#宁波市-1" class="headerlink" title="宁波市"></a><strong>宁波市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/ningbo.png" alt="ningbo"></p>
           </div>
 
 <table>
@@ -29932,7 +29617,7 @@ your browser does not support the video tag
 <td>需换纸质票，不含导游讲解费用</td>
 </tr>
 </tbody></table>
-<h3 id="温州市"><a href="#温州市" class="headerlink" title="温州市"></a><strong>温州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/wenzhou.png" alt="wenzhou"></p>
+<h3 id="温州市-1"><a href="#温州市-1" class="headerlink" title="温州市"></a><strong>温州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/wenzhou.png" alt="wenzhou"></p>
           </div>
 
 <table>
@@ -30083,7 +29768,7 @@ your browser does not support the video tag
 <td>限3次，需换纸质票</td>
 </tr>
 </tbody></table>
-<h3 id="湖州市"><a href="#湖州市" class="headerlink" title="湖州市"></a><strong>湖州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/huzhou.png" alt="huzhou"></p>
+<h3 id="湖州市-1"><a href="#湖州市-1" class="headerlink" title="湖州市"></a><strong>湖州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/huzhou.png" alt="huzhou"></p>
           </div>
 
 <table>
@@ -30162,7 +29847,7 @@ your browser does not support the video tag
 <td>假期不可用，限1次，含游船</td>
 </tr>
 <tr>
-<td>南浔古镇</td>
+<td>✅南浔古镇</td>
 <td>浙江省湖州市南浔区南浔镇人瑞路51号</td>
 <td>5A</td>
 <td>95元</td>
@@ -30178,7 +29863,7 @@ your browser does not support the video tag
 <td>限1次，需换纸质票，90公分以下儿童免费</td>
 </tr>
 </tbody></table>
-<h3 id="嘉兴市"><a href="#嘉兴市" class="headerlink" title="嘉兴市"></a><strong>嘉兴市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jiaxing.png" alt="jiaxing"></p>
+<h3 id="嘉兴市-1"><a href="#嘉兴市-1" class="headerlink" title="嘉兴市"></a><strong>嘉兴市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jiaxing.png" alt="jiaxing"></p>
           </div>
 
 <table>
@@ -30249,7 +29934,7 @@ your browser does not support the video tag
 <td>需换纸质票</td>
 </tr>
 </tbody></table>
-<h3 id="绍兴市"><a href="#绍兴市" class="headerlink" title="绍兴市"></a><strong>绍兴市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/shaoxing.png" alt="shaoxing"></p>
+<h3 id="绍兴市-1"><a href="#绍兴市-1" class="headerlink" title="绍兴市"></a><strong>绍兴市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/shaoxing.png" alt="shaoxing"></p>
           </div>
 
 <table>
@@ -30272,7 +29957,7 @@ your browser does not support the video tag
 <td></td>
 </tr>
 <tr>
-<td>安昌古镇景区</td>
+<td>✅安昌古镇景区</td>
 <td>浙江省绍兴市柯桥区安昌街道越州大道</td>
 <td>4A</td>
 <td>70元</td>
@@ -30280,7 +29965,7 @@ your browser does not support the video tag
 <td>需换纸质票，含6个景点</td>
 </tr>
 <tr>
-<td>西施故里景区-中国历代名媛馆</td>
+<td>✅西施故里景区-中国历代名媛馆</td>
 <td>浙江省绍兴市诸暨市暨阳街道苎萝东路2号</td>
 <td>4A</td>
 <td>45元</td>
@@ -30288,7 +29973,7 @@ your browser does not support the video tag
 <td>限3次，仅限日场</td>
 </tr>
 </tbody></table>
-<h3 id="金华市"><a href="#金华市" class="headerlink" title="金华市"></a><strong>金华市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jinhua.png" alt="jinhua"></p>
+<h3 id="金华市-1"><a href="#金华市-1" class="headerlink" title="金华市"></a><strong>金华市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/jinhua.png" alt="jinhua"></p>
           </div>
 
 <table>
@@ -30383,7 +30068,7 @@ your browser does not support the video tag
 <td>限1次</td>
 </tr>
 </tbody></table>
-<h3 id="衢州市"><a href="#衢州市" class="headerlink" title="衢州市"></a><strong>衢州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/quzhou.png" alt="quzhou"></p>
+<h3 id="衢州市-1"><a href="#衢州市-1" class="headerlink" title="衢州市"></a><strong>衢州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/quzhou.png" alt="quzhou"></p>
           </div>
 
 <table>
@@ -30502,7 +30187,7 @@ your browser does not support the video tag
 <td>仅限4-10月可用，春节、劳动节、国庆节不可用</td>
 </tr>
 </tbody></table>
-<h3 id="舟山市"><a href="#舟山市" class="headerlink" title="舟山市"></a><strong>舟山市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/zhoushan.png" alt="zhoushan"></p>
+<h3 id="舟山市-1"><a href="#舟山市-1" class="headerlink" title="舟山市"></a><strong>舟山市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/zhoushan.png" alt="zhoushan"></p>
           </div>
 
 <table>
@@ -30581,7 +30266,7 @@ your browser does not support the video tag
 <td>限1次，需换纸质票</td>
 </tr>
 </tbody></table>
-<h3 id="台州市"><a href="#台州市" class="headerlink" title="台州市"></a><strong>台州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/taizhou.png" alt="taizhou"></p>
+<h3 id="台州市-1"><a href="#台州市-1" class="headerlink" title="台州市"></a><strong>台州市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/taizhou.png" alt="taizhou"></p>
           </div>
 
 <table>
@@ -30620,7 +30305,7 @@ your browser does not support the video tag
 <td>需换纸质票</td>
 </tr>
 <tr>
-<td>神仙居景区</td>
+<td>✅神仙居景区</td>
 <td>浙江省台州市仙居县白塔镇白塔镇</td>
 <td>5A</td>
 <td>110元</td>
@@ -30636,7 +30321,7 @@ your browser does not support the video tag
 <td></td>
 </tr>
 </tbody></table>
-<h3 id="丽水市"><a href="#丽水市" class="headerlink" title="丽水市"></a><strong>丽水市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/lishui.png" alt="lishui"></p>
+<h3 id="丽水市-1"><a href="#丽水市-1" class="headerlink" title="丽水市"></a><strong>丽水市</strong></h3><div class="fj-gallery"><p><img src="https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/zhejiang/lishui.png" alt="lishui"></p>
           </div>
 
 <table>
@@ -30833,7 +30518,7 @@ your browser does not support the video tag
 </tr>
 <tr>
 <td>上城区</td>
-<td>钱王祠</td>
+<td>✅钱王祠</td>
 <td>上城区河坊街178号</td>
 <td>地铁7号线至吴山广场站，步行可达</td>
 <td>文旅卡免费；地铁约4元</td>
@@ -30857,7 +30542,7 @@ your browser does not support the video tag
 </tr>
 <tr>
 <td>萧山区</td>
-<td>东方文化园</td>
+<td>✅东方文化园</td>
 <td>萧山区义桥镇杨岐山</td>
 <td>地铁4号线至浦沿站，换乘公交726路</td>
 <td>文旅卡免费；地铁约6元+公交2元</td>
@@ -30961,7 +30646,7 @@ your browser does not support the video tag
 </tr>
 <tr>
 <td>建德市</td>
-<td>大慈岩</td>
+<td>✅大慈岩</td>
 <td>建德市大慈岩镇</td>
 <td>杭州汽车南站乘大巴到建德，转乘景区专线</td>
 <td>文旅卡免费；大巴约35元+专线</td>
@@ -31016,8 +30701,8 @@ your browser does not support the video tag
 <td>开放8:00-17:00；行程约4小时</td>
 </tr>
 </tbody></table>
-<h1 id="周末游-火车-高铁-推荐"><a href="#周末游-火车-高铁-推荐" class="headerlink" title="周末游 火车+高铁 推荐"></a>周末游 火车+高铁 推荐</h1><h2 id="🚝高铁1小时直达"><a href="#🚝高铁1小时直达" class="headerlink" title="🚝高铁1小时直达"></a>🚝高铁1小时直达</h2><p>杭州周边1-2日游可以去的城市，基本100💰就能解决<br>1⃣️杭州—绍兴（🚄高铁13分钟，13💰）<br>2⃣️杭州—富阳（🚄高铁13分钟，18💰）<br>3⃣️ 杭州—诸暨（🚄高铁19分钟，23💰）<br>4⃣️ 杭州—湖州（🚄高铁21分钟，32💰）<br>5⃣️ 杭州—嘉兴（🚄高铁23分钟，34💰）<br>6⃣️ 杭州—桐庐（🚄高铁33分钟，70💰）<br>7⃣️ 杭州—宜兴（🚄高铁33分钟，70💰）<br>8⃣️ 杭州—安吉（🚄高铁33分钟，60💰）<br>9⃣️ 杭州—建德（🚄高铁33分钟，54💰）<br>🔟 杭州—义乌（🚄高铁28分钟，38💰）<br>1⃣️1⃣️ 杭州—金华（🚄高铁46分钟，60💰）<br>1⃣️2⃣️ 杭州—海宁（🚄高铁34分钟，15💰）<br>1⃣️3⃣️ 杭州—千岛湖（🚄高铁41分钟，62💰）<br>1⃣️4⃣️ 杭州—溧阳（🚄高铁39分钟，87💰）<br>1⃣️5⃣️ 杭州—嵊州（🚄高铁43分钟，65💰）<br>1⃣️6⃣️ 杭州—上海（🚄高铁43分钟，58💰）<br>1⃣️7⃣️ 杭州—宁波（🚄高铁53分钟，51💰）<br>1⃣️8⃣️ 杭州—衢州（🚄高铁59分钟，109💰）</p>
-<h2 id="📍省内"><a href="#📍省内" class="headerlink" title="📍省内"></a>📍省内</h2><p>杭州→宁波🚄53min，💰51<br>杭州→绍兴🚄13min，💰13<br>杭州→湖州🚄21min，💰32<br>杭州→金华🚄46min，💰60<br>杭州→舟山（宁波🚄高铁53min，💰51，大巴🚌朱家尖2h，💰72）<br>杭州→嘉兴🚄23min，💰34<br>杭州→衢州🚄59min，💰109<br>杭州→丽水🚄1h25min，💰105<br>杭州→温州🚄1h31min，💰126<br>杭州→台州🚄1h33min，💰121</p>
+<h1 id="周末游-火车-高铁-推荐"><a href="#周末游-火车-高铁-推荐" class="headerlink" title="周末游 火车+高铁 推荐"></a>周末游 火车+高铁 推荐</h1><h2 id="🚝高铁1小时直达"><a href="#🚝高铁1小时直达" class="headerlink" title="🚝高铁1小时直达"></a>🚝高铁1小时直达</h2><p>杭州周边1-2日游可以去的城市，基本100💰就能解决<br>1⃣️杭州—绍兴（🚄高铁13分钟，13💰）✅<br>2⃣️杭州—富阳（🚄高铁13分钟，18💰）✅<br>3⃣️ 杭州—诸暨（🚄高铁19分钟，23💰）✅<br>4⃣️ 杭州—湖州（🚄高铁21分钟，32💰）✅<br>5⃣️ 杭州—嘉兴（🚄高铁23分钟，34💰）✅<br>6⃣️ 杭州—桐庐（🚄高铁33分钟，70💰）✅<br>7⃣️ 杭州—宜兴（🚄高铁33分钟，70💰）<br>8⃣️ 杭州—安吉（🚄高铁33分钟，60💰）<br>9⃣️ 杭州—建德（🚄高铁33分钟，54💰）✅<br>🔟 杭州—义乌（🚄高铁28分钟，38💰）✅<br>1⃣️1⃣️ 杭州—金华（🚄高铁46分钟，60💰）<br>1⃣️2⃣️ 杭州—海宁（🚄高铁34分钟，15💰）<br>1⃣️3⃣️ 杭州—千岛湖（🚄高铁41分钟，62💰）<br>1⃣️4⃣️ 杭州—溧阳（🚄高铁39分钟，87💰）<br>1⃣️5⃣️ 杭州—嵊州（🚄高铁43分钟，65💰）✅<br>1⃣️6⃣️ 杭州—上海（🚄高铁43分钟，58💰）<br>1⃣️7⃣️ 杭州—宁波（🚄高铁53分钟，51💰）<br>1⃣️8⃣️ 杭州—衢州（🚄高铁59分钟，109💰）</p>
+<h2 id="📍省内"><a href="#📍省内" class="headerlink" title="📍省内"></a>📍省内</h2><p>杭州→宁波🚄53min，💰51<br>杭州→绍兴🚄13min，💰13 ✅<br>杭州→湖州🚄21min，💰32 ✅<br>杭州→金华🚄46min，💰60<br>杭州→舟山（宁波🚄高铁53min，💰51，大巴🚌朱家尖2h，💰72）<br>杭州→嘉兴🚄23min，💰34<br>杭州→衢州🚄59min，💰109<br>杭州→丽水🚄1h25min，💰105<br>杭州→温州🚄1h31min，💰126<br>杭州→台州🚄1h33min，💰121 ✅</p>
 <h2 id="📍省外"><a href="#📍省外" class="headerlink" title="📍省外"></a>📍省外</h2><p>杭州→福州🚄2h59min，💰313|福建<br>杭州→南平🚄2h8min，💰193.5|福建<br>杭州→上海🚄54min，💰51|上海<br>杭州→苏州🚄1h47min，💰119|江苏<br>杭州→南京🚄1h14min，💰141|江苏<br>杭州→扬州🚄2h44min，💰230|江苏<br>杭州→无锡🚄1h37min，💰120|江苏<br>杭州→黄山🚄1h15min,💰112|安徽<br>杭州→合肥🚄2h8min，💰184|安徽<br>杭州→宣城🚄53min，💰87|安徽<br>杭州→池州🚄2h20min，💰182|安徽<br>杭州→上饶🚄1h38min，💰157|江西<br>杭州→景德镇🚄2h4min，💰193|江西<br>杭州→南昌🚄2h15min，💰264|江西</p>
 <h1 id="🌟2025杭州出发·浙江及周边必去10大景点（含最新玩法-预订攻略）"><a href="#🌟2025杭州出发·浙江及周边必去10大景点（含最新玩法-预订攻略）" class="headerlink" title="🌟2025杭州出发·浙江及周边必去10大景点（含最新玩法&amp;预订攻略）"></a>🌟2025杭州出发·浙江及周边必去10大景点（含最新玩法&amp;预订攻略）</h1><hr>
 <h2 id="1️⃣-西湖风景名胜区"><a href="#1️⃣-西湖风景名胜区" class="headerlink" title="1️⃣ 西湖风景名胜区"></a>1️⃣ <strong>西湖风景名胜区</strong></h2><p><strong>推荐理由</strong>：世界文化遗产，2025年新增AR诗词导览</p>
@@ -31794,6 +31479,559 @@ your browser does not support the video tag
         <category>live</category>
         <category>travel</category>
         <category>heilongjiang</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浙江-建德</title>
+    <url>//%E6%B5%99%E6%B1%9F-%E5%BB%BA%E5%BE%B7.html</url>
+    <content><![CDATA[<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><ul>
+<li>出行<ul>
+<li>杭州东站9：41出发，10：34到达建德站（💰58）</li>
+<li>1️⃣建德站打车🚖到严州古城（💰20.04）<br>严州古城门票免费，整体游玩时间🕑1.5h<br>我们十一点到达还有舞蹈杂技表演，整体商业化比较严重，到处都是酒店民宿，可逛性不强。但是城墙上的新安江景色超级好看，还有风，适合拍照。<br>美食：豆腐包🌟🌟🌟🌟 🌟<br>严州烤饼🌟 🌟 🌟 🌟<br>树叶豆腐🌟🌟🌟<br>枣糕🌟 🌟 🌟 🌟</li>
+</ul>
+</li>
+<li><h2 id="游玩-路线-严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村-严州古城-比较商业化，很多特产，尝了烤饼脆脆的还可以。-新安江农贸市场-买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。-大慈岩-因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐-新叶古村-爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了-附上游玩顺序-文昌阁→醉仙居→有序堂→双美堂→西山祠堂"><a href="#游玩-路线-严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村-严州古城-比较商业化，很多特产，尝了烤饼脆脆的还可以。-新安江农贸市场-买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。-大慈岩-因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐-新叶古村-爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了-附上游玩顺序-文昌阁→醉仙居→有序堂→双美堂→西山祠堂" class="headerlink" title="游玩- 路线  - 严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村- 严州古城:比较商业化，很多特产，尝了烤饼脆脆的还可以。- 新安江农贸市场:买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。- 大慈岩:因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐- 新叶古村:爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了  - 附上游玩顺序:文昌阁→醉仙居→有序堂→双美堂→西山祠堂"></a>游玩<br>- 路线<br>  - 严州古城➡️新安江农贸市场➡️大慈岩➡️新叶古村<br>- 严州古城:比较商业化，很多特产，尝了烤饼脆脆的还可以。<br>- 新安江农贸市场:买了老太婆卤味的翅尖和隔壁的炸鸡，都挺不错的，翅尖蒜味比较浓，辣辣的很上头，炸鸡也入味，好吃。<br>- 大慈岩:因为时间比较赶所以选择了索道上山徒步下山，不赶时间还是徒步比较划算，索道八十块五分钟就到了，不值当，而且到不了山顶，只到悬空寺，还是要自己爬一段，下山的路还蛮长的，里面标识不多，差点没找到下山的路，问了好几个人才找到，下台阶下的腿都抖了😐<br>- 新叶古村:爸爸去哪儿2的拍摄地，没这么商业化，很有那种古村的韵味，风景很好，就是很偏，打车非常难打，三点多进去六点半才打上顺风车，工作人员全部下班了，门口的保安都下班了<br>  - 附上游玩顺序:文昌阁→醉仙居→有序堂→双美堂→西山祠堂</h2></li>
+</ul>
+<h1 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h1><h2 id="大慈岩"><a href="#大慈岩" class="headerlink" title="大慈岩"></a>大慈岩</h2><p>文旅卡（29.9购入，浙江省内可以去很多地方）免费进，⚠️注意提前购买，2小时后生效<br>徒步上山，走走停停，50min。全程3h，上山山顶走走看看+下山<br>缆车上山下来，还要走30min<br>双面佛，索道桥，千年银杏树</p>
+<p>丛林速滑 60元门票，这个可以有！全程爽歪歪啊！<br>玻璃栈道 40元门票，腿软星人，劝退</p>
+<h3 id="🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元-高铁接驳-景区公交-深度玩法）"><a href="#🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元-高铁接驳-景区公交-深度玩法）" class="headerlink" title="🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元+高铁接驳+景区公交+深度玩法）"></a>🚄【杭州文旅卡用户专属】建德2日游全程公共交通攻略（人均300元+高铁接驳+景区公交+深度玩法）</h3><h4 id="核心亮点"><a href="#核心亮点" class="headerlink" title="核心亮点"></a><strong>核心亮点</strong></h4><p>✅ <strong>门票全免</strong>：大慈岩、灵栖洞、新叶古村凭杭州文旅卡直接入园，省160元！<br>✅ <strong>交通优化</strong>：高铁+公交无缝衔接，避开打车坑，全程费用透明！<br>✅ <strong>隐藏玩法</strong>：溶洞探秘、古村寻幽、古镇夜游，打卡《爸爸去哪儿》同款！</p>
+<h3 id="🌟-Day1：杭州→大慈岩→新叶古村"><a href="#🌟-Day1：杭州→大慈岩→新叶古村" class="headerlink" title="🌟 Day1：杭州→大慈岩→新叶古村"></a><strong>🌟 Day1：杭州→大慈岩→新叶古村</strong></h3><h4 id="🚄-高铁出行"><a href="#🚄-高铁出行" class="headerlink" title="🚄 高铁出行"></a>🚄 <strong>高铁出行</strong></h4><ul>
+<li><strong>班次选择</strong>：<br>① <strong>早班车</strong>：杭州东站→建德站（G3091次，7:55发车，8:35抵达，票价53元）。<br>② <strong>备选班次</strong>：杭州南站→建德站（G7425次，15:06发车，16:10抵达，票价49元）。</li>
+<li><strong>接驳公交</strong>：建德站出口直走50米至公交站，乘坐 <strong>K3路公交车</strong>（6:00-18:00，每20分钟一班，票价5元），1小时直达大慈岩景区。</li>
+</ul>
+<h4 id="🗻-上午：大慈岩核心游览"><a href="#🗻-上午：大慈岩核心游览" class="headerlink" title="🗻 上午：大慈岩核心游览"></a>🗻 <strong>上午：大慈岩核心游览</strong></h4><ul>
+<li><strong>门票</strong>：<strong>免票</strong>（原价80元，杭州文旅卡直接刷码入园）。</li>
+<li><strong>游览路线</strong>：<br>① <strong>步行登山（1.5小时）</strong>：入口→清音阁→木栈道→悬空寺（千年古刹悬于峭壁）→地藏王大殿→天然立佛观景台（拍照绝佳机位）。<br>② <strong>索道上下（上行50元&#x2F;下行40元）</strong>：直达山顶节省体力，适合带老人&#x2F;儿童。</li>
+<li>⚠️ <strong>贴士</strong>：<br>✅ 穿防滑鞋！部分石阶陡峭，带1L水+零食。<br>✅ 山顶无餐厅，建议自带干粮或下山用餐。</li>
+</ul>
+<h4 id="🚌-下午：新叶古村探秘"><a href="#🚌-下午：新叶古村探秘" class="headerlink" title="🚌 下午：新叶古村探秘"></a>🚌 <strong>下午：新叶古村探秘</strong></h4><ul>
+<li><strong>公交接驳</strong>：大慈岩景区门口公交站乘坐 <strong>南站-新叶专线</strong>（1小时1班，末班车16:10，票价5元），30分钟直达新叶古村。</li>
+<li><strong>门票</strong>：<strong>免票</strong>（原价60元，杭州文旅卡直接刷码入园）。</li>
+<li><strong>玩法</strong>：<br>① 漫步青石板路，打卡<code>有序堂``双美堂</code>等宗祠，感受叶氏家族文化。<br>② 秋季稻田金黄时，村外梯田拍照超美！<br>③ 可选《爸爸去哪儿》亲子体验项目（磨豆腐、推独轮车，另付费5-20元）。</li>
+<li>🍽️ <strong>晚餐推荐</strong>：新叶古村内<code>荷香园民宿</code>包吃住150元&#x2F;人，建德干菜鸭、豆腐鸡子等农家菜管饱。</li>
+</ul>
+<h4 id="🏨-住宿"><a href="#🏨-住宿" class="headerlink" title="🏨 住宿"></a>🏨 <strong>住宿</strong></h4><ul>
+<li><strong>推荐</strong>：新叶古村内<code>荷香园民宿</code>（步行5分钟到景区），徽派建筑风格，含早餐，价格约200元&#x2F;晚。</li>
+<li><strong>备选</strong>：寿昌镇<code>7天优品酒店</code>（近公交枢纽），标间180元&#x2F;晚，方便次日行程。</li>
+</ul>
+<h3 id="🌟-Day2：灵栖洞→梅城古镇→返程杭州"><a href="#🌟-Day2：灵栖洞→梅城古镇→返程杭州" class="headerlink" title="🌟 Day2：灵栖洞→梅城古镇→返程杭州"></a><strong>🌟 Day2：灵栖洞→梅城古镇→返程杭州</strong></h3><h4 id="🕳️-上午：灵栖洞奇幻之旅"><a href="#🕳️-上午：灵栖洞奇幻之旅" class="headerlink" title="🕳️ 上午：灵栖洞奇幻之旅"></a>🕳️ <strong>上午：灵栖洞奇幻之旅</strong></h4><ul>
+<li><strong>公交接驳</strong>：<br>① 新叶古村公交站乘坐 <strong>南站-新叶专线</strong> 返回寿昌镇（6:00-16:10，每30分钟一班，票价5元）。<br>② 寿昌镇公交站换乘 <strong>寿昌-灵栖洞专线</strong>（7:00-15:00，每小时一班，票价6元），30分钟直达灵栖洞。</li>
+<li><strong>门票</strong>：<strong>免票</strong>（原价80元，杭州文旅卡直接刷码入园）。</li>
+<li><strong>路线</strong>：<br>① <strong>灵泉洞</strong>：乘船探秘地下河（约10分钟），钟乳石倒映水中如仙境。<br>② <strong>清风洞</strong>：体验<code>天然空调</code>，夏季避暑绝佳地。<br>③ <strong>霭云洞</strong>：最大溶洞，石幔、石笋造型奇特，灯光秀超震撼。</li>
+<li>⚠️ <strong>贴士</strong>：<br>✅ 洞内湿滑，穿防滑鞋；清风洞风大，可备薄外套。<br>✅ 游船旺季需排队，建议早到（8:30前）避开人流。</li>
+</ul>
+<h4 id="🍜-午餐推荐"><a href="#🍜-午餐推荐" class="headerlink" title="🍜 午餐推荐"></a>🍜 <strong>午餐推荐</strong></h4><ul>
+<li><strong>寿昌镇</strong>：<code>阿毛炒粉干</code>（建德特色小吃），炒粉干+豆腐包套餐15元，本地人常去。</li>
+<li><strong>灵栖洞附近</strong>：农家乐吃土菜，推荐石斑鱼、玉米馃，人均40元。</li>
+</ul>
+<h4 id="🏯-下午：梅城古镇时光漫步"><a href="#🏯-下午：梅城古镇时光漫步" class="headerlink" title="🏯 下午：梅城古镇时光漫步"></a>🏯 <strong>下午：梅城古镇时光漫步</strong></h4><ul>
+<li><strong>公交接驳</strong>：灵栖洞公交站乘坐 <strong>寿昌-梅城专线</strong>（13:00、15:00发车，票价8元），1小时直达梅城古镇。</li>
+<li><strong>玩法</strong>：<br>① <strong>免费游览</strong>：逛青石板街、登古城墙（门票20元，需自费），俯瞰三江汇流。<br>② <strong>联票景点（20元）</strong>：浙大西迁旧址、清代邮局、文化实践中心，了解历史。<br>③ <strong>特色体验</strong>：品尝严州酥饼、豆腐包，观看非遗三都麻糍制作。</li>
+<li>🚢 <strong>备选活动</strong>：夜游新安江（门票80元，灯光秀+江风超爽），需提前预约。</li>
+</ul>
+<h4 id="🚄-返程杭州"><a href="#🚄-返程杭州" class="headerlink" title="🚄 返程杭州"></a>🚄 <strong>返程杭州</strong></h4><ul>
+<li><strong>公交接驳</strong>：梅城古镇公交站乘坐 <strong>梅城-建德站专线</strong>（末班车16:00，票价10元），1小时直达建德站。</li>
+<li><strong>高铁班次</strong>：建德站→杭州东站（G7303次，18:28发车，19:22抵达，票价53元）。</li>
+</ul>
+<h3 id="🧳-装备清单"><a href="#🧳-装备清单" class="headerlink" title="🧳 装备清单"></a>🧳 <strong>装备清单</strong></h3><ul>
+<li>登山包、防滑鞋、防晒帽（大慈岩山路晒）</li>
+<li>薄外套（灵栖洞恒温17℃）、充电宝、一次性雨衣</li>
+<li>身份证、杭州文旅卡（必带！）、现金（部分农家乐需现金支付）</li>
+</ul>
+<h3 id="💡-杭州文旅卡专属权益"><a href="#💡-杭州文旅卡专属权益" class="headerlink" title="💡 杭州文旅卡专属权益"></a>💡 <strong>杭州文旅卡专属权益</strong></h3><ol>
+<li><strong>门票全免</strong>：大慈岩、灵栖洞、新叶古村凭卡直接入园，无需预约。</li>
+<li><strong>快速通道</strong>：景区检票处刷码或身份证快速入园，无需排队购票。</li>
+<li><strong>保险购买</strong>：进入景区前需在售票窗口购买人身意外伤害保险（2元&#x2F;人）。</li>
+<li><strong>其他优惠</strong>：部分景区内项目（如大慈岩索道、灵栖洞游船）享折扣，具体咨询景区工作人员。</li>
+</ol>
+<h3 id="📌-避坑指南"><a href="#📌-避坑指南" class="headerlink" title="📌 避坑指南"></a>📌 <strong>避坑指南</strong></h3><ol>
+<li><strong>大慈岩</strong>：景区内香烛可自带，庙内购买较贵；悬空寺拍照避开人流高峰（上午10点前）。</li>
+<li><strong>新叶古村</strong>：村内部分祠堂需单独购票，联票更划算；避开周末节假日，游客较少。</li>
+<li><strong>灵栖洞</strong>：游船排队较长，建议早到；洞内无照明，紧跟导游或自备手电筒。</li>
+<li><strong>梅城古镇</strong>：古城墙联票20元，学生&#x2F;老人可享半价；夜游需提前1小时购票。</li>
+</ol>
+<h3 id="🌿-四季玩法"><a href="#🌿-四季玩法" class="headerlink" title="🌿 四季玩法"></a>🌿 <strong>四季玩法</strong></h3><ul>
+<li><strong>春（3-4月）</strong>：大慈岩杜鹃盛开，新叶古村油菜花田超美。</li>
+<li><strong>夏（6-8月）</strong>：灵栖洞避暑，夜游新安江（门票80元，灯光秀+江风超爽）。</li>
+<li><strong>秋（9-11月）</strong>：大慈岩红叶漫山，新叶古村晒秋场景出片。</li>
+<li><strong>冬（12-2月）</strong>：灵栖洞溶洞恒温，大慈岩偶尔可见雾凇。</li>
+</ul>
+<p><strong>📌 行程亮点</strong>：</p>
+<ul>
+<li><strong>门票省160元</strong>：大慈岩、灵栖洞、新叶古村凭杭州文旅卡全免！</li>
+<li><strong>交通零打车</strong>：高铁+公交无缝接驳，适合预算有限的游客。</li>
+<li><strong>深度体验</strong>：悬空寺、古村、溶洞、古镇一网打尽，文化与自然结合。</li>
+</ul>
+<p>收藏这篇攻略，2天玩透建德精华！出发前查好天气，穿舒适的鞋，带够水和零食，开启你的山水人文之旅吧～ 🏞️</p>
+<p>#杭州周边游 #建德攻略 #大慈岩 #新叶古村 #灵栖洞 #梅城古镇 #杭州文旅卡</p>
+]]></content>
+      <categories>
+        <category>live</category>
+        <category>travel</category>
+        <category>zhejiang</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浙江-台州</title>
+    <url>//%E6%B5%99%E6%B1%9F-%E5%8F%B0%E5%B7%9E.html</url>
+    <content><![CDATA[<h2 id="小红书整理"><a href="#小红书整理" class="headerlink" title="小红书整理"></a>小红书整理</h2><h3 id="✨台州2天1夜暴走攻略｜神仙居-临海-椒江全打卡！附避坑指南😎"><a href="#✨台州2天1夜暴走攻略｜神仙居-临海-椒江全打卡！附避坑指南😎" class="headerlink" title="✨台州2天1夜暴走攻略｜神仙居+临海+椒江全打卡！附避坑指南😎"></a>✨台州2天1夜暴走攻略｜神仙居+临海+椒江全打卡！附避坑指南😎</h3><p>谁懂啊家人们！周末冲台州真的太值了！🌊 神仙居的壮阔、临海的古韵、椒江的烟火气… 一篇搞定全攻略，快码住出发！🚀</p>
+<p>🌿【Day1：神仙居特种兵式暴走】<br>▪️7点前冲杭州西站，坐8:01的高铁直达仙居站🚄 1.5h直达，沿途风景超治愈～<br>▪️出高铁站直接坐103路公交到神仙居北门🚌 6元直达，不用换乘超方便！<br>▪️果断选南门进+索道上山🚠 5分钟直达山顶，省体力冲景点！<br>▪️暴走路线附上（亲测能打卡90%景点）：<br>佛影莲韵→老君台（登高视野绝了！）→蟠桃园→大圣府→牛背楼→如意桥（必拍！悬空感拉满）→如意阁→因缘桥→南天顶（玻璃台敢站中间算你狠😝）→莲花台→卧龙桥→圆梦桥→北海索道下山<br>▪️全程暴走1.5w步+，腿已废但值哭！下山坐电瓶车到北门，10分钟搞定～<br>▪️15:45坐公交回仙居南站，再转17:36的高铁去台州西站，37分钟直达🌙<br>🌃【椒江夜生活太好逛】<br>▪️到台州西站后坐公交去椒江老区，直接冲冷饮世界🍧 杨梅冰沙+炒麻糍，夏天吃这个太爽了！<br>▪️饭后骑小电驴去葭沚老街🌉 夜晚灯笼亮起超有氛围感，随手拍都是大片～<br>▪️住181青旅，性价比高还能认识新朋友，就是半夜被吵醒两次有点小插曲😂 但总体体验ok！</p>
+<p>☀️【Day2：临海古城慢时光】<br>▪️7:30起床收拾，8点退房直冲花园菜市场🥢 温岭嵌糕+炊饭必须安排！糯叽叽星人狂喜～<br>▪️买了花园郑记梅花糕和乌饭麻糍，边走边吃超满足！璋圆炊饭人好多但个人觉得一般，慎排！<br>▪️平桥小吃街白天人少，适合随便逛逛～ 买了芭乐气泡水，清爽解腻💦<br>▪️坐公交去台州站，13分钟到临海～ 转旅游1号线直达兴善门，紫阳老街我来啦！<br>▪️蛋清羊尾必吃！外酥里嫩甜到心巴～ 海苔饼和泡虾排队太长，天热果断放弃（懂的都懂😅）<br>▪️逛了朱自清纪念馆和央行旧址，感受古城历史底蕴～ 天太热没爬江南长城，在东湖边吹吹风也很惬意🌿<br>▪️傍晚坐高铁返程，19:23到杭州南站，结束完美周末～</p>
+<p>💡【避坑&amp;小贴士】</p>
+<ol>
+<li>神仙居步道有些年久失修，穿防滑鞋！下山腿巨疼，建议带点止痛贴😭</li>
+<li>椒江到临海高铁很方便，不用打车浪费钱～</li>
+<li>夏天去一定要做好防晒！帽子墨镜冰袖安排上，不然分分钟晒黑两个度☀️</li>
+<li>想吃的小吃尽量早去，晚了要么排队要么卖完，别问我怎么知道的…</li>
+</ol>
+<p>总体来说，台州真的太适合周末游了！既有自然景观又有人文烟火，下次还要再去补上海苔饼和泡虾！😋 你们还有啥宝藏玩法？评论区告诉我呀～</p>
+<p>#台州旅游 #神仙居攻略 #临海古城 #周末去哪儿 #浙江周边游 #小红书旅游攻略 #暴走日记 #吃货日常</p>
+<h3 id="带花费版本-杭州出发｜台州-2-天-1-夜暴走攻略🚶♀️人均-500-玩遍-3-地！"><a href="#带花费版本-杭州出发｜台州-2-天-1-夜暴走攻略🚶♀️人均-500-玩遍-3-地！" class="headerlink" title="带花费版本 杭州出发｜台州 2 天 1 夜暴走攻略🚶♀️人均 500 + 玩遍 3 地！"></a>带花费版本 杭州出发｜台州 2 天 1 夜暴走攻略🚶♀️人均 500 + 玩遍 3 地！</h3><p>谁懂啊！周末特种兵式打卡台州也太爽了！<br>神仙居的壮阔 + 临海的古韵 + 椒江的烟火气<br>全拿下！附超详细花费 &amp; 路线👇<br>🌿Day1：神仙居暴走日<br>▫️08:01 杭州西→仙居站（高铁 1.23h💰113）<br>地铁 1h 到车站💰8，早起人都是懵的…<br>▫️神仙居冲锋模式开启！<br>北门进→索道上山💰65（保命选择！）<br>佛影莲韵→老君台→如意桥（必拍！）→南天顶 一路腿软但风景绝了！📸<br>莲花台的玻璃栈道吓得我脚趾抠地哈哈哈<br>▫️下山大失误💥<br>14:10 挑战徒步下山步道<br>1.2h 全程抖腿走完… 年久失修慎选！ （建议直接索道下山！）<br>▫️15:45 公交去仙居南站💰8<br>转顺风车💰12.63→17:36 高铁去台州西💰21<br>▫️椒江夜生活 yyds！<br>公交到老街💰3，骑小电驴逛吃超爽～<br>冷饮世界怒炫： 韭菜炒小土豆 + 冰菠萝酒酿 + 糯叽叽💰85<br>葭沚老街夜景绝了！住 181 青旅💰38<br>🌙深夜腿疼到失眠… 但值了！</p>
+<p>🌿Day2：碳水轰炸日<br>▫️7:30 起床冲花园菜市场！<br>温岭嵌糕炊饭💰21（料多到爆炸！）<br>梅花糕 + 乌饭麻糍💰13（糯叽叽星人狂喜）<br>▫️10:26 高铁去临海💰18<br>旅游 1 号线直达紫阳街💰2<br>蛋清羊尾必吃！💰15（甜而不腻绝了）<br>海苔饼排队 20m 果断放弃…🔥<br>▫️暴走模式继续：<br>朱自清纪念馆→东湖边发呆<br>（腿太废了长城没爬… 留个遗憾下次来）<br>▫️18:00 高铁回杭州💰87<br>小区门口买水果💰24.5，治愈疲惫！<br>💰总花费：369.06+222.2&#x3D;591.26<br>（含交通 + 吃喝 + 住宿！）<br>💡Tips：<br>❶ 神仙居一定要穿舒服的鞋！不然会像我一样瘸着走<br>❷ 椒江的冷饮店闭眼冲，夏天吃超爽<br>❸ 临海紫阳街建议早上去，避开人流 + 高温<br>台州真的太太太好吃了！<br>下次还要来补上海苔饼和长城！<br>有没有同款特种兵姐妹🙋♀️<br>#台州旅游 #神仙居攻略 #周末去哪儿 #杭州周边游 #特种兵旅游</p>
+<h1 id="交通"><a href="#交通" class="headerlink" title="交通"></a>交通</h1><ul>
+<li>台州西 ➡️仙居南 21 35min <ul>
+<li>06:55 10:50 14:49 18:35</li>
+</ul>
+</li>
+<li>仙居南 ➡️台州西 21 37min<ul>
+<li>09:43 13:54 17:36 21:33</li>
+</ul>
+</li>
+<li>临海南 ➡️仙居南 13 20min<ul>
+<li>07:10 11:05 15:05 18:50</li>
+</ul>
+</li>
+<li>仙居南 ➡️临海南 13 20min<ul>
+<li>09:43 13:54 17:36 21:33</li>
+</ul>
+</li>
+<li>临海-台州 往返 <ul>
+<li>高铁13min 16 </li>
+<li>汽车 17 只有台州去临海的票 1h 7:00 08:15 10:45 11:55</li>
+</ul>
+</li>
+<li>杭州往返<ul>
+<li>杭州西 ➡️仙居 08:01-09:24 1.23h 113</li>
+<li>杭州东 ➡️临海 08:00-09:11 1.11h 105</li>
+<li>杭州东 ➡️台州 07:33-09:06 1.31h 121 </li>
+<li>仙居 ➡️杭州西 18:21-19:41 1.2h 109</li>
+<li>临海 ➡️杭州东 20:03-21:07 1.04h 99</li>
+<li>台州 ➡️杭州东 20:19-21:46 1.27h 123</li>
+<li>台州 ➡️杭州南 19:49-21:07 1.35h 115</li>
+</ul>
+</li>
+</ul>
+<h2 id="路线规划"><a href="#路线规划" class="headerlink" title="路线规划"></a>路线规划</h2><ul>
+<li><p>线路1 不去台州椒江  113+13+99&#x3D;225</p>
+<ul>
+<li>杭州西 ➡️仙居 08:01-09:24 1.23h 113 </li>
+<li>仙居南 ➡️临海南 13 20min<ul>
+<li>09:43 13:54 17:36 21:33</li>
+</ul>
+</li>
+<li>临海 ➡️杭州东 20:03-21:07 1.04h 99</li>
+</ul>
+</li>
+<li><p>线路2 113+21+16+99&#x3D;249</p>
+<ul>
+<li>杭州西 ➡️仙居 08:01-09:24 1.23h 113</li>
+<li>仙居南 ➡️台州西 21 37min<ul>
+<li>09:43 13:54 17:36 21:33</li>
+</ul>
+</li>
+<li>临海-台州 往返<ul>
+<li>高铁13分钟 16</li>
+<li>汽车 17</li>
+</ul>
+</li>
+<li>临海 ➡️杭州东 20:03-21:07 1.04h 99</li>
+</ul>
+</li>
+</ul>
+<h2 id="手撸行程规划"><a href="#手撸行程规划" class="headerlink" title="手撸行程规划"></a>手撸行程规划</h2><ul>
+<li>杭州西 ➡️仙居 08:01-09:24 1.23h 113  </li>
+<li>09:40的高铁去神仙居南门<ul>
+<li>✅南上南下（4-4.5h）：🌟首选路线 <ul>
+<li>景区南门入➡️南天索道上山（65元，上下行索道分开买即可，一起买也🈚️优惠）</li>
+<li>➡️佛影莲韵（拍照排队40分钟左右🆓） </li>
+<li>➡️南天梯自动扶梯 ➡️南天顶玻璃观景（88元，小贵，我们没上去）</li>
+<li>➡️南海桥 ➡️莲花台 ➡️慈航普渡 ➡️八卦台 ➡️青云梯 ➡️卧龙桥</li>
+<li>➡️圆梦桥 ➡️如意桥 ➡️牛背楼 ➡️南天索道下山（55元，下行索道便宜10元）</li>
+<li>➡️景区南门出</li>
+</ul>
+</li>
+<li>暴走路线<ul>
+<li>南门入→索道上山→佛影莲韵→返回左拐→老君台→蟠桃园-→大圣府→牛背楼<br>→如意桥→如意阁→因缘桥→微信亭→南天楼→摘星台→南天顶→南海桥→莲<br>花台→望峰台→鸿蒙桥→问天阁→天姥楼→太白楼→卧龙桥→圆梦桥→如意阁<br>→明镜台→天关地阙→北海索道下山→建议坐电瓶车→北门出<br>特别:这条路线景点打卡蕞全,体力好的考虑!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>仙居南 ➡️台州西 21 37min 09:43 13:54 17:36 21:33 坐17:36的的车去台州</li>
+<li>到台州后，在台州吃饭，吃完饭入住青旅35</li>
+<li>第二天早上在台州吃完早饭去临海，车次很多 紫阳老街</li>
+<li>然后 临海 ➡️杭州东 20:03-21:07 1.04h 99</li>
+</ul>
+<h2 id="流水账"><a href="#流水账" class="headerlink" title="流水账"></a>流水账</h2><p>2025年09月06日</p>
+<ul>
+<li>早上<ul>
+<li>早上早起坐地铁1个半小时去杭州西站，然后出发去仙居站，08:01-09:24 1.23h 113。</li>
+<li>到达仙居站后，坐公交去神仙居景区。</li>
+<li>本来想徒步上山的，怕上去之后没体力继续转，就选择了索道上山。</li>
+<li>索道5分钟，<ul>
+<li>依次南门入→索道上山→佛影莲韵→返回左拐→老君台(需要爬一段，上边风景好)→蟠桃园-→大圣府→牛背楼</li>
+<li>→如意桥→如意阁→因缘桥→微信亭→(中线暂停，原路返回然后走北边)明镜台→天关地阙</li>
+<li>→如意阁→圆梦桥→卧龙桥→太白楼→天姥楼→莲花台→南天桥→南天梯</li>
+<li>→然后折返莲花台走下山步道下山，花费0元，，时间<code>14:10-15:24</code>到步道口，<code>走的快差不多1.2h，环境一般且年久失修，不建议</code>。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>中午<ul>
+<li>下午3点半到达公交点，坐15:45的公交，去仙居高铁站，然后打顺风车去仙居高铁南站。</li>
+<li>坐17:36的高铁去台州西站，时间37min。</li>
+<li>腿疼啊！第一天上强度失误！</li>
+</ul>
+</li>
+<li>晚上<ul>
+<li>到台州西站后，坐公交去椒江老区吃好吃的去。</li>
+<li>中途办了个电车骑车卡，在冷饮世界吃完饭后，骑电车去葭沚老街转转。</li>
+<li>转完后，直接去181青旅入住。</li>
+<li>腿疼啊，洗刷完后直接睡觉。晚上又来了一个人，醒了2次，总体体验还挺好的。</li>
+</ul>
+</li>
+</ul>
+<p>2025年09月07日</p>
+<ul>
+<li>早上<ul>
+<li>早上7点半起床，收拾完毕。8点退房出发去花园菜市场吃早饭。</li>
+<li>吃了温岭嵌糕炊饭，逛了菜市场，然后买了花园郑记梅花糕和乌饭麻糍。继续去吃璋圆炊饭，我感觉不好吃，但是人好多啊。</li>
+<li>吃完后，去了平桥小吃街看了看，白天没啥人。中途买了一个好想来芭乐气泡水，味道不错。</li>
+<li>然后坐公交去台州站，10:26-10:39，13min，18，出发去临海。</li>
+</ul>
+</li>
+<li>中午<ul>
+<li>到站后，坐旅游熊出没1号线，直达兴善门游客中心。</li>
+<li>直接逛紫阳老街，吃蛋清羊尾，海苔饼和泡虾排队人多，天热就放弃排队了。然后吃了甜品，天太热休息到了13点。</li>
+<li>继续出发，逛了朱自清纪念馆，中国人民银行台州支行旧址陈列馆。</li>
+<li>然后走走停停来到了江南长城游客服务中心，待了很久，天热休息休息，手机充充电。</li>
+<li>腿太疼就没去爬江南长城，在东湖边上走走停停。</li>
+<li>然后坐公交去临海站，然后晚上6点的车去杭州南。</li>
+</ul>
+</li>
+<li>晚上<ul>
+<li>19:23到达杭州南站，坐地铁回住的地方。</li>
+<li>在小区门口买了水果，桃子+黄桃+阳光玫瑰。</li>
+<li>晚上8点多到住的地方，自己煮了个泡面，把早上打包的麻糍煎蛋吃了。</li>
+<li>又熬了个夜，改改改！！！</li>
+</ul>
+</li>
+</ul>
+<h2 id="流水账花费"><a href="#流水账花费" class="headerlink" title="流水账花费"></a>流水账花费</h2><p>总花费: 2025年09月06日<code>369.06</code>+2025年09月07日<code>222.2</code>&#x3D;<code>(总花费:591.26元)</code></p>
+<p>2025年09月06日 总花费8+113+8+65+8+12.63+21+3+3.93+3.5+85+38&#x3D;<code>(花费:369.06元)</code></p>
+<ul>
+<li>早上<ul>
+<li>早上早起坐地铁1个半小时去杭州西站<code>(花费:8元)</code>，然后出发去仙居站，08:01-09:24 1.23h <code>(花费:113元)</code>。</li>
+<li>到达仙居站后，坐公交<code>(花费:8元)</code>去神仙居景区。</li>
+<li>本来想徒步上山的，怕上去之后没体力继续转，就选择了索道<code>(花费:65元)</code>上山。</li>
+<li>索道5分钟，<ul>
+<li>依次南门入→索道上山→佛影莲韵→返回左拐→老君台(需要爬一段，上边风景好)→蟠桃园-→大圣府→牛背楼</li>
+<li>→如意桥→如意阁→因缘桥→微信亭→(中线暂停，原路返回然后走北边)明镜台→天关地阙</li>
+<li>→如意阁→圆梦桥→卧龙桥→太白楼→天姥楼→莲花台→南天桥→南天梯</li>
+<li>→然后折返莲花台走下山步道下山，<code>(花费:0元)</code>，时间<code>14:10-15:24</code>到步道口，<code>走的快差不多1.2h，环境一般且年久失修，不建议</code>。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>中午<ul>
+<li>下午3点半到达公交点，坐15:45的公交<code>(花费:8元)</code>，去仙居高铁站，然后打顺风车<code>(花费:12.63元)</code>去仙居高铁南站。</li>
+<li>坐17:36的高铁去台州西站，时间37min<code>(花费:21元)</code>。</li>
+<li>腿疼啊！第一天上强度失误！</li>
+</ul>
+</li>
+<li>晚上<ul>
+<li>到台州西站后，坐公交<code>(花费:3元)</code>去椒江老区吃好吃的去。</li>
+<li>中途办了个电车骑车卡<code>(花费:3.93元)</code>，买了个梅花糕<code>(花费:3.5元)</code>。</li>
+<li>在冷饮世界吃完饭(韭菜炒小土豆、炒大肠、六月雪+牛奶糯叽叽、冰菠萝酒酿)后<code>(花费:85元)</code>，骑电车去葭沚老街转转。</li>
+<li>转完后，直接去181青旅入住<code>(花费:38元)</code>。</li>
+<li>腿疼啊，洗刷完后直接睡觉。晚上又来了一个人，醒了2次，总体体验还挺好的。</li>
+</ul>
+</li>
+</ul>
+<p>2025年09月07日 总花费21+13+25.5+3.2+2+15+25+2+87+4+24.5&#x3D;<code>(花费:222.2元)</code></p>
+<ul>
+<li>早上<ul>
+<li>早上7点半起床，收拾完毕。8点退房出发去花园菜市场吃早饭。</li>
+<li>吃了温岭嵌糕炊饭<code>(花费:21元)</code>，逛了菜市场，然后买了花园郑记梅花糕和乌饭麻糍<code>(花费:3+10元)</code>。</li>
+<li>继续去吃璋圆炊饭(肉沫炊饭13+麻糍煎蛋7+炊圆1.5+豆面汤4)<code>(花费:25.5元)</code>，我感觉不好吃，但是人好多啊。</li>
+<li>吃完后，去了平桥小吃街看了看，白天没啥人。中途买了一个好想来芭乐气泡水<code>(花费:3.2元)</code>，味道不错。</li>
+<li>然后坐公交去台州站，10:26-10:39，13min，<code>(花费:18元)</code>，出发去临海。</li>
+</ul>
+</li>
+<li>中午<ul>
+<li>到站后，坐旅游熊出没1号线<code>(花费:2元)</code>，直达兴善门游客中心。</li>
+<li>直接逛紫阳老街，吃蛋清羊尾<code>(花费:15元)</code>，海苔饼和泡虾排队人多，天热就放弃排队了。然后吃了甜品<code>(花费:25元)</code>，天太热休息到了13点。</li>
+<li>继续出发，逛了朱自清纪念馆，中国人民银行台州支行旧址陈列馆。</li>
+<li>然后走走停停来到了江南长城游客服务中心，待了很久，天热休息休息，手机充充电。</li>
+<li>腿太疼就没去爬江南长城，在东湖边上走走停停。</li>
+<li>然后坐公交去<code>(花费:2元)</code>临海站，然后晚上6点的车去杭州南。</li>
+</ul>
+</li>
+<li>晚上<ul>
+<li>19:23到达杭州南站<code>(花费:87元)</code>，坐地铁<code>(花费:4元)</code>回住的地方。</li>
+<li>在小区门口买了水果，桃子+黄桃+阳光玫瑰<code>(花费:24.5元)</code>。</li>
+<li>晚上8点多到住的地方，自己煮了个泡面，把早上打包的麻糍煎蛋吃了。</li>
+<li>又熬了个夜，改改改！！！</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>live</category>
+        <category>travel</category>
+        <category>zhejiang</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浙江-绍兴-嵊州+新昌</title>
+    <url>//%E6%B5%99%E6%B1%9F-%E7%BB%8D%E5%85%B4-%E5%B5%8A%E5%B7%9E+%E6%96%B0%E6%98%8C.html</url>
+    <content><![CDATA[<h1 id="✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄"><a href="#✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄" class="headerlink" title="✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄"></a>✨【杭州周边游｜新昌嵊州2天1夜穷游攻略】🚄</h1><h3 id="📅-第一天：新昌山水暴走日"><a href="#📅-第一天：新昌山水暴走日" class="headerlink" title="📅 第一天：新昌山水暴走日"></a>📅 <strong>第一天：新昌山水暴走日</strong></h3><p><strong>总花费：433.82元</strong><br><strong>关键词：丹霞徒步+千年佛国+新昌夜宵天花板</strong></p>
+<h4 id="🚄-交通篇"><a href="#🚄-交通篇" class="headerlink" title="🚄 交通篇"></a>🚄 <strong>交通篇</strong></h4><ul>
+<li><strong>杭州→新昌</strong>：高铁G7363（7:34-8:25）💰61元，出站秒乘 <strong>F101公交</strong>（2元）直达十九峰，9:10发车，1小时直达千丈幽谷入口，晕车党建议坐前排！</li>
+</ul>
+<h4 id="🏞️-景点篇"><a href="#🏞️-景点篇" class="headerlink" title="🏞️ 景点篇"></a>🏞️ <strong>景点篇</strong></h4><ol>
+<li><p><strong>穿岩十九峰</strong></p>
+<ul>
+<li>门票💰60元，必打卡 <strong>飞龙栈道</strong>（玻璃观景台+999阶台阶），恐高者慎入！全程2.5小时，俯瞰超震撼。</li>
+<li>下山后乘公交至 <strong>新昌西站</strong>（2元），换乘至大佛寺（2元），无缝衔接！</li>
+</ul>
+</li>
+<li><p><strong>新昌大佛寺</strong></p>
+<ul>
+<li>提前1天网购门票💰65元（原价70元），14:45入园，17:50出园，3小时逛完核心景点：<br>✔️ 江南第一大佛（16米弥勒像，震撼！）<br>✔️ 般若谷（瀑布+玻璃栈道，拍照出片）<br>✔️ 佛心素面（15元&#x2F;碗，汤头清甜）</li>
+</ul>
+</li>
+</ol>
+<h4 id="🍽️-美食篇"><a href="#🍽️-美食篇" class="headerlink" title="🍽️ 美食篇"></a>🍽️ <strong>美食篇</strong></h4><ul>
+<li><strong>午餐</strong>：沃洲路62号羊棒骨<br>羊棒骨+豆腐煎包+炒年糕，酱香浓郁，人均50元吃到撑！</li>
+<li><strong>下午茶</strong>：蜜雪冰城柠檬水💰4元</li>
+<li><strong>夜宵</strong>：热电路炒年糕+阿锋三角饺<ul>
+<li>炒年糕（豆腐+肉丝+笋丝，19元）+糟肉（8元），烟火气十足！</li>
+<li>芋泥三角饺💰14元，外皮酥脆内馅绵密，原地封神！</li>
+</ul>
+</li>
+</ul>
+<h4 id="🏨-住宿篇"><a href="#🏨-住宿篇" class="headerlink" title="🏨 住宿篇"></a>🏨 <strong>住宿篇</strong></h4><p>兔毛市场附近经济型酒店💰100元，干净卫生，步行5分钟到公交站，适合赶早班车的宝子～</p>
+<h3 id="📅-第二天：嵊州文化美食日"><a href="#📅-第二天：嵊州文化美食日" class="headerlink" title="📅 第二天：嵊州文化美食日"></a>📅 <strong>第二天：嵊州文化美食日</strong></h3><p><strong>总花费：198.29元</strong><br><strong>关键词：汤包天花板+春饼排队王+糯叽叽小吃</strong></p>
+<h4 id="🍳-早餐篇"><a href="#🍳-早餐篇" class="headerlink" title="🍳 早餐篇"></a>🍳 <strong>早餐篇</strong></h4><ul>
+<li><strong>朝阳早餐店</strong>：蒸汤包+鲜肉包+放汤包（馄饨）💰23元，汤包皮薄馅鲜，汤头浓郁！</li>
+<li><strong>胖妹猪头肉春饼</strong>：套餐二（春饼+蛋+油饺+臭豆腐+香肠+里脊肉+油煎蛋+猪头肉）💰20元，8:20开始排队，等了50分钟！春饼现做，酥脆到掉渣，建议错峰打卡！</li>
+</ul>
+<h4 id="🚲-citywalk篇"><a href="#🚲-citywalk篇" class="headerlink" title="🚲 citywalk篇"></a>🚲 <strong>citywalk篇</strong></h4><ul>
+<li><strong>嵊州古城墙</strong>：免费打卡，感受剡溪风光，适合拍古风照～</li>
+<li><strong>嵊州城隍庙</strong>：门票💰0元，元代建筑<code>溪山第一楼</code>，木雕细节惊艳！</li>
+<li><strong>富豪街小吃扫街</strong>：<br>✔️ 西桥米果：全家福米果+青麻球💰27元，艾草清香超治愈！<br>✔️ 一景鲜奶：本地鲜奶冰淇淋💰12元，奶味浓到上头！<br>✔️ 老袁炒年糕：肉丝炒年糕💰15元（个人觉得一般，可尝试其他店）</li>
+</ul>
+<h4 id="🚄-返程篇"><a href="#🚄-返程篇" class="headerlink" title="🚄 返程篇"></a>🚄 <strong>返程篇</strong></h4><p>嵊州新昌站→杭州东站 G194（14:59-15:41）💰69元，结束快乐旅程～</p>
+<h3 id="💰-总预算（2天1夜）"><a href="#💰-总预算（2天1夜）" class="headerlink" title="💰 总预算（2天1夜）"></a>💰 <strong>总预算（2天1夜）</strong></h3><ul>
+<li>交通：61+2+2+2+69&#x3D;136元</li>
+<li>门票：60+65&#x3D;125元</li>
+<li>住宿：100元</li>
+<li>吃喝：50+4+27+7+14+18.82+3.5+23+20+8+37+12+15+4.79&#x3D;223.11元<br><strong>合计：676.11元</strong></li>
+</ul>
+<h3 id="⚠️-避坑小贴士"><a href="#⚠️-避坑小贴士" class="headerlink" title="⚠️ 避坑小贴士"></a>⚠️ <strong>避坑小贴士</strong></h3><ol>
+<li>十九峰公交F101每天仅6班，建议掐点候车，末班车17:30！</li>
+<li>胖妹春饼排队超久，可先买其他小吃垫肚子～</li>
+<li>嵊州→新昌公交51路7分钟一班，末班车18:10，别错过！</li>
+</ol>
+<p>📸 <strong>拍照点推荐</strong></p>
+<ul>
+<li>十九峰飞龙栈道（广角拍悬崖）</li>
+<li>大佛寺放生池（拍大佛倒影）</li>
+<li>嵊州古城墙（傍晚拍剡溪日落）</li>
+</ul>
+<p>#杭州周边游 #新昌嵊州攻略 #穷游打卡 #美食探店 #周末去哪儿<br>👉 关注我，解锁更多江浙沪小众路线～</p>
+<p>（附：行程视频已更新，戳主页看沉浸式游玩vlog！）</p>
+<hr>
+<h1 id="🗺️-新昌大佛寺「0折返全景路线」优化版"><a href="#🗺️-新昌大佛寺「0折返全景路线」优化版" class="headerlink" title="🗺️ 新昌大佛寺「0折返全景路线」优化版"></a>🗺️ <strong>新昌大佛寺「0折返全景路线」优化版</strong></h1><blockquote>
+<p>大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口<br><strong>总时长</strong>：4小时 | <strong>步行距离</strong>：约5公里 | <strong>体力消耗</strong>：中等</p>
+</blockquote>
+<h3 id="🌟-分段详解-打卡攻略"><a href="#🌟-分段详解-打卡攻略" class="headerlink" title="🌟 分段详解 &amp; 打卡攻略"></a>🌟 <strong>分段详解 &amp; 打卡攻略</strong></h3><h4 id="1-地质与禅意开篇（0-75小时）"><a href="#1-地质与禅意开篇（0-75小时）" class="headerlink" title="1. 地质与禅意开篇（0.75小时）"></a><strong>1. 地质与禅意开篇（0.75小时）</strong></h4><p><strong>路线</strong>：大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔</p>
+<ul>
+<li><strong>木化石林</strong>（15分钟）<ul>
+<li>3亿年硅化木群，推荐拍摄树干与天空的剪影，阳光透过树叶光斑绝美。</li>
+</ul>
+</li>
+<li><strong>露天弥勒</strong>（10分钟）<ul>
+<li>20米高布袋和尚像，右手边小路可拍<code>佛抱青山</code>构图。</li>
+</ul>
+</li>
+<li><strong>栖光净院→万佛宝塔</strong>（30分钟）<ul>
+<li>沿石阶上山，净院纯白建筑适合拍禅意照；万佛宝塔登塔需15分钟，顶层可俯瞰整个景区（恐高者慎入）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="2-自然奇观与核心文化（1-5小时）"><a href="#2-自然奇观与核心文化（1-5小时）" class="headerlink" title="2. 自然奇观与核心文化（1.5小时）"></a><strong>2. 自然奇观与核心文化（1.5小时）</strong></h4><p><strong>路线</strong>：万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿</p>
+<ul>
+<li><strong>般若谷</strong>（40分钟）<ul>
+<li><strong>必做两件事</strong>：<br>✔️ 玻璃栈道拍瀑布全景（上午10点前光线最佳）；<br>✔️ 谷底潭水旁拍汉服倒影（可租景区汉服，50元&#x2F;小时）。</li>
+</ul>
+</li>
+<li><strong>放生池→天王殿</strong>（20分钟）<ul>
+<li>放生池喂锦鲤（鱼食5元&#x2F;包），天王殿东侧摩崖石刻有朱熹手迹<code>溪山第一</code>。</li>
+</ul>
+</li>
+<li><strong>江南第一大佛→大雄宝殿</strong>（30分钟）<ul>
+<li>大佛殿内禁止拍照，可在殿外平台仰拍佛像全景；大雄宝殿后有1200年树龄的古银杏（秋季必看）。</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-石窟艺术与静心收尾（1小时）"><a href="#3-石窟艺术与静心收尾（1小时）" class="headerlink" title="3. 石窟艺术与静心收尾（1小时）"></a><strong>3. 石窟艺术与静心收尾（1小时）</strong></h4><p><strong>路线</strong>：大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口</p>
+<ul>
+<li><strong>千佛禅院</strong>（20分钟）<ul>
+<li>1075尊小石佛密集排列，用长焦镜头拍局部细节，避开正午强光。</li>
+</ul>
+</li>
+<li><strong>双林石窟</strong>（25分钟）<ul>
+<li>37米涅槃卧佛，洞口右侧<code>佛足</code>位置可拍<code>摸佛脚</code>祈福照（工作人员指导姿势）。</li>
+</ul>
+</li>
+<li><strong>白云湖→佛心广场</strong>（15分钟）<ul>
+<li>湖边步道可休息，推荐买文创雪糕（18元）打卡，出口前可在佛心广场领免费香（每日限量）。</li>
+</ul>
+</li>
+</ul>
+<h3 id="⚠️-路线优化关键点"><a href="#⚠️-路线优化关键点" class="headerlink" title="⚠️ 路线优化关键点"></a>⚠️ <strong>路线优化关键点</strong></h3><ol>
+<li><strong>体力分配科学</strong>：<ul>
+<li>前1.5小时集中登山（栖光净院→万佛宝塔→般若谷），后2小时平缓游览（石刻→大佛→石窟）。</li>
+<li>般若谷至大雄宝殿段设休息点（佛心广场旁长椅），提供免费热水。</li>
+</ul>
+</li>
+<li><strong>错峰建议</strong>：<ul>
+<li>万佛宝塔、般若谷上午人少，建议9:00前抵达景区，10:30前完成登山段。</li>
+<li>双林石窟下午4点后光线柔和，适合拍卧佛特写。</li>
+</ul>
+</li>
+</ol>
+<h3 id="📸-摄影黄金点位"><a href="#📸-摄影黄金点位" class="headerlink" title="📸 摄影黄金点位"></a>📸 <strong>摄影黄金点位</strong></h3><table>
+<thead>
+<tr>
+<th>景点</th>
+<th>最佳拍摄位</th>
+<th>器材建议</th>
+<th>构图技巧</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>般若谷瀑布</td>
+<td>玻璃栈道中段</td>
+<td>手机广角&#x2F;微单</td>
+<td>低角度仰拍，人物居中站定</td>
+</tr>
+<tr>
+<td>江南第一大佛</td>
+<td>大雄宝殿正对面平台</td>
+<td>单反长焦</td>
+<td>压缩感构图，突出佛像威严</td>
+</tr>
+<tr>
+<td>双林石窟卧佛</td>
+<td>洞口左侧5米处</td>
+<td>手机夜景模式</td>
+<td>开启人像模式，虚化背景</td>
+</tr>
+<tr>
+<td>万佛宝塔全景</td>
+<td>栖光净院后方小山坡</td>
+<td>无人机</td>
+<td>环绕运镜，展现宝塔与青山</td>
+</tr>
+</tbody></table>
+<h3 id="🍽️-路线配套服务"><a href="#🍽️-路线配套服务" class="headerlink" title="🍽️ 路线配套服务"></a>🍽️ <strong>路线配套服务</strong></h3><ul>
+<li><strong>餐饮推荐</strong>：<ul>
+<li>般若谷出口<code>禅意咖啡</code>（竹筒奶茶18元）</li>
+<li>佛心素面馆（素面+素鸡20元，大雄宝殿旁）</li>
+</ul>
+</li>
+<li><strong>交通贴士</strong>：<ul>
+<li>景区入口有免费寄存柜（限2小时），大件行李可存游客中心（5元&#x2F;天）。</li>
+<li>出口处公交2路直达新昌客运中心（末班车18:00）。</li>
+</ul>
+</li>
+</ul>
+<h3 id="📌-用户路线Q-A"><a href="#📌-用户路线Q-A" class="headerlink" title="📌 用户路线Q&amp;A"></a>📌 <strong>用户路线Q&amp;A</strong></h3><p><strong>Q：原路线中的<code>寿露天弥勒</code>是否为<code>露天弥勒</code>？</strong><br>A：是同一景点，官方名称为<code>露天弥勒</code>，俗称<code>寿佛</code>，指布袋和尚雕像。</p>
+<p><strong>Q：千佛禅院和双林石窟哪个更值得停留？</strong><br>A：千佛禅院胜在历史感（南朝遗存），双林石窟胜在视觉冲击（37米卧佛），建议各预留20分钟。</p>
+<p>按此路线，既能深度感受千年佛国的文化底蕴，又能高效打卡自然与人文奇观，全程无折返，轻松不累！ 🏯✨</p>
+<p>#新昌大佛寺攻略 #浙江寺庙游 #摄影路线 #周末徒步 #江浙沪旅游</p>
+<hr>
+<h1 id="复盘"><a href="#复盘" class="headerlink" title="复盘"></a>复盘</h1><p>复盘时间: 2025年05月19日</p>
+<h2 id="流水账-原版"><a href="#流水账-原版" class="headerlink" title="流水账 原版"></a>流水账 原版</h2><ul>
+<li>第一天<br>花费: 61+2+60+20+4+50+4+65+66+27+7+14+18.82+35&#x3D;433.82<ul>
+<li>高铁出发 杭州东站-&gt;嵊州新昌站 G7363 2025年05月17日 07:34-08:25  51分钟 61元</li>
+<li>嵊州新昌站公交F101，2元。 9:10出发去十九峰景区(千丈幽谷景区)，1个小时到，10:05到达景区门口，进入景区，票价60元。</li>
+<li>游玩2个多小时，登999阶台阶，走飞龙栈道+20元，观千丈幽谷，12点半出景区，1点公交到西站，换成公交抵达大佛景区，费用2+2元。</li>
+<li>步行几百米到沃洲路62号羊棒骨吃午餐，羊棒骨+绿豆汤+豆腐煎包+炒年糕，花费50元。</li>
+<li>吃完饭，买了一杯蜜雪冰城柠檬水4元，然后去大佛寺景区玩，提前一天订票省10元，花费70元-5元优惠券。2025年05月17日14:45进景区，2025年05月17日17:50出景区，大约游玩3小时。</li>
+<li>出发去宾馆，在兔毛市场附近，办理入住，花费66元。</li>
+<li>休息到7:30分，去热电路炒年糕吃东西。27元(豆腐+香肠+笋丝+肉丝+鸡蛋丝，炒年糕19+小份糟肉8)+7元喝的。</li>
+<li>吃完逛逛新昌县，之后继续吃阿锋三角饺，芋泥馅三角饺YYDS，花费14元。</li>
+<li>然后买了点水果，蓝莓+沃柑+山竹花费18.82元。</li>
+<li>之后买了一瓶大桶水+3.5元，回去睡觉。</li>
+<li>做完一整天的视频素材，然后睡觉！</li>
+</ul>
+</li>
+<li>第二天<br>花费: 23+20+8+7.5+2+37+12+15+4.79+69&#x3D;198.29<ul>
+<li>早上7点半起床后，去了朝阳早餐店，点了招牌蒸汤包+包皮豆腐鲜肉包+放汤包(带汤馄饨)花费23元。</li>
+<li>然后去吃胖妹猪头肉春饼，套餐二 春饼+蛋+油饺+臭豆腐+香肠+里脊肉+油煎蛋+猪头肉，8点20排队，排了50多分钟，可真慢啊！花费20元。</li>
+<li>吃了一半，然后去买锅拉头+菜，花费8元。</li>
+<li>吃了几口，回宾馆，收拾，一共骑了3次电车，2.5+1.5+3.5&#x3D;7.5元，出发去嵊州，公交2元。</li>
+<li>11点到达嵊州宝龙广场，然后步行至东前街-&gt;古城墙-&gt;剡禾记-&gt;嵊州城隍庙。</li>
+<li>玩完之后步行至富豪街，买西桥米果，花费27(全家福+招牌青麻球)+10(甜米酒)&#x3D;37元。</li>
+<li>之后，转转富豪街，找好吃的。找到一个一景鲜奶，买了个冰淇淋+12元。</li>
+<li>吃过之后，又来了一份老袁炒年糕，一直觉得炒年糕不好吃+1，花费15元。</li>
+<li>本来想去越剧小镇转转的，没赶上车，买了瓶茶π+4.79元，索性改签回杭州。</li>
+<li>2025年05月18日14:05到达，嵊州新昌站。高铁出发 嵊州新昌站-&gt;杭州东站 G194 2025年05月18日 14:59-15:41  42分钟 69元。</li>
+<li>到家，洗刷，洗衣服，继续吃。。。</li>
+</ul>
+</li>
+</ul>
+<h2 id="总花费"><a href="#总花费" class="headerlink" title="总花费"></a>总花费</h2><p>总花费:433.82+198.29&#x3D;632.11元。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>非常值得，总体体验不错，有时间多陪家人，有钱就旅旅游，没钱就逛逛公园。人间值得！</p>
+<hr>
+<h1 id="景点盘点"><a href="#景点盘点" class="headerlink" title="景点盘点"></a>景点盘点</h1><ul>
+<li><p><strong>飞龙栈道</strong>：9:30-11:30（含玻璃观景台拍照，注意夏令时15:00停止入场）。</p>
+</li>
+<li><p><strong>千丈幽谷</strong>：11:30-12:30（徒步峡谷石板路，感受丹霞地貌）。</p>
+</li>
+<li><p><strong>重阳宫</strong>：12:30-13:30（若时间充裕，道教文化景点，门票40元）。</p>
+</li>
+<li><p><strong>江南第一大佛</strong>（亚洲第一卧佛）：开凿于南朝的16米弥勒石窟，香火鼎盛，建议请讲解员（30元&#x2F;小时）了解历史背景。</p>
+</li>
+<li><p><strong>般若谷</strong>：以<code>佛教文化</code>为主题的峡谷景观，夏季避暑胜地，拍照出片率高。</p>
+</li>
+<li><p><strong>木化石恐龙园</strong>：适合亲子游客，近距离观察1亿年前的硅化木化石。</p>
+</li>
+</ul>
+<hr>
+<h1 id="📌Tips"><a href="#📌Tips" class="headerlink" title="📌Tips"></a>📌Tips</h1><p>⏰️周一-周日6：00-17：00<br>🪪绍兴身份🆔免票，提前预约💰66，正常💰80<br>🪪大佛寺里的每个景点都别错过看景区路标很清楚！边走边逛不累的，深度游线路其实慢速度<code>四个小时</code>也能走完</p>
+<p>佛心素面馆（江南第一大佛旁）：15 元 &#x2F; 碗，素面 + 素鸡套餐，汤头用香菇熬制，本地人私藏款！<br>出口处 <code>禅意咖啡</code>：竹筒奶茶 + 禅意包装，拍照发圈神器～</p>
+<p>大佛寺风景区<br>新昌大佛寺「0折返全景路线」🚶‍♀️</p>
+<blockquote>
+<p>大佛城入口 → 木化石林 → 露天弥勒 → 栖光净院 → 万佛宝塔 → 般若谷 → 放生池 → 天王殿摩崖石刻 → 江南第一大佛 → 大雄宝殿 → 千佛禅院 → 双林石窟 → 白云湖 → 佛心广场 → 大佛城出口<br><strong>总时长</strong>：4小时 | <strong>步行距离</strong>：约5公里 | <strong>体力消耗</strong>：中等</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>live</category>
+        <category>travel</category>
+        <category>zhejiang</category>
       </categories>
       <tags>
         <tag>生活</tag>
