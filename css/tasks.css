@@ -1,5 +1,4 @@
-<style>
-/* 页面大背景 */
+/* 大背景 */
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
@@ -10,12 +9,13 @@ body {
 
 /* 容器 */
 #task-container {
-  max-width: 800px;
-  margin: 0 auto;
-  background: rgba(232,255,255,0.7);
+  max-width: 700px;
+  background: rgba(255,255,255,0.95);
   border-radius: 16px;
   padding: 20px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  margin: 0;      /* 去掉居中 */
+  margin-left: 10px; /* 调整靠左 */
 }
 
 /* 分类标题 */
@@ -25,6 +25,7 @@ body {
   font-weight: bold;
   font-size: 20px;
   color: #333;
+  text-align: left;
 }
 
 /* 任务模块 */
@@ -38,17 +39,20 @@ body {
   background: #f0f4f7;
   box-shadow: 0 2px 5px rgba(0,0,0,0.08);
   transition: background 0.2s, transform 0.1s;
+  flex-wrap: wrap;
 }
 
+/* hover效果 */
 .task-item:hover {
   background: #e0ecf5;
   transform: translateY(-1px);
 }
 
 /* 子任务缩进 */
-.task-item[data-level="1"] { margin-left: 20px; }
-.task-item[data-level="2"] { margin-left: 40px; }
-.task-item[data-level="3"] { margin-left: 60px; }
+.task-item[data-level="0"] { margin-left: 0px; }
+.task-item[data-level="1"] { margin-left: 10px; }
+.task-item[data-level="2"] { margin-left: 20px; }
+.task-item[data-level="3"] { margin-left: 30px; }
 
 /* 圆形勾选框 */
 .task-item input[type="checkbox"] {
@@ -57,15 +61,18 @@ body {
   margin-right: 12px;
   border-radius: 50%;
   accent-color: #007aff;
+  flex-shrink: 0;
 }
 
-/* 标题 */
+/* 任务标题 */
 .task-title {
-  flex: 1;
+  flex: 1 1 60%;
   border: none;
   background: transparent;
   font-size: 16px;
   outline: none;
+  margin-bottom: 4px;
+  text-align: left;
 }
 
 .task-title:focus {
@@ -74,13 +81,19 @@ body {
   padding: 2px 6px;
 }
 
-/* 按钮样式 */
+/* 按钮区域 */
+.task-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+}
+
 .task-actions button {
-  margin-left: 6px;
   background: none;
   border: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .task-actions button:hover {
@@ -101,15 +114,18 @@ body {
 .add-task-box {
   display: flex;
   margin-bottom: 12px;
+  flex-wrap: wrap;
+  margin-left: 0; /* 靠左 */
 }
 
 .add-task-box input {
-  flex: 1;
-  padding: 8px 12px;
+  flex: 1 1 70%;
+  padding: 10px 12px;
   border-radius: 8px;
   border: 1px solid #ccc;
   font-size: 16px;
   outline: none;
+  min-width: 150px;
 }
 
 .add-task-box input:focus {
@@ -118,8 +134,9 @@ body {
 }
 
 .add-task-box button {
+  flex: 0 0 auto;
   margin-left: 8px;
-  padding: 8px 12px;
+  padding: 10px 14px;
   border-radius: 8px;
   border: none;
   background: #007aff;
@@ -131,5 +148,27 @@ body {
 .add-task-box button:hover {
   background: #005ecb;
 }
-</style>
+ul {
+  list-style: none; /* 去掉默认圆点 */
+  padding-left: 0;
+  margin-left: 0;
+}
+/* 手机适配 */
+@media screen and (max-width: 480px) {
+  #task-container {
+    padding: 12px;
+  }
 
+  .task-title {
+    font-size: 14px;
+  }
+
+  .add-task-box input {
+    font-size: 14px;
+  }
+
+  .add-task-box button {
+    font-size: 16px;
+    padding: 8px 12px;
+  }
+}
