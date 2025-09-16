@@ -1,0 +1,135 @@
+<style>
+/* 页面大背景 */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+}
+
+/* 容器 */
+#task-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: rgba(232,255,255,0.7);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* 分类标题 */
+.task-category {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #333;
+}
+
+/* 任务模块 */
+.task-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  border-radius: 12px;
+  background: #f0f4f7;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  transition: background 0.2s, transform 0.1s;
+}
+
+.task-item:hover {
+  background: #e0ecf5;
+  transform: translateY(-1px);
+}
+
+/* 子任务缩进 */
+.task-item[data-level="1"] { margin-left: 20px; }
+.task-item[data-level="2"] { margin-left: 40px; }
+.task-item[data-level="3"] { margin-left: 60px; }
+
+/* 圆形勾选框 */
+.task-item input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+  border-radius: 50%;
+  accent-color: #007aff;
+}
+
+/* 标题 */
+.task-title {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  outline: none;
+}
+
+.task-title:focus {
+  background: #fffbe6;
+  border-radius: 6px;
+  padding: 2px 6px;
+}
+
+/* 按钮样式 */
+.task-actions button {
+  margin-left: 6px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.task-actions button:hover {
+  transform: scale(1.1);
+}
+
+/* 删除和完成样式 */
+.deleted .task-title {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.checked .task-title {
+  color: #666;
+}
+
+/* 新增任务输入框 */
+.add-task-box {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.add-task-box input {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  outline: none;
+}
+
+.add-task-box input:focus {
+  border-color: #007aff;
+  box-shadow: 0 0 5px rgba(0, 122, 255, 0.3);
+}
+
+.add-task-box button {
+  margin-left: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  background: #007aff;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.add-task-box button:hover {
+  background: #005ecb;
+}
+</style>
+
