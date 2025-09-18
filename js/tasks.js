@@ -78,13 +78,25 @@ function restoreTask(id) { return updateTaskField(id, { deleted: false }); }
 
 // 真实删除
 async function realDeleteTask(id) {
+// 先弹窗确认
+  const ok = confirm("确定要删除这条任务吗？");
+  if (!ok) return;
+
+  // 1. 本地移除
   tasks = tasks.filter(t => t._id !== id);
   renderTasks();
-  await fetch(API_URL, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ _id: id, action: "delete" })
-  });
+
+  // 2. 调接口删除
+  try {
+    await fetch(API_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ _id: id, action: "delete" })
+    });
+  } catch (err) {
+    console.error("删除失败:", err);
+    alert("删除失败，请重试");
+  }
 }
 
 // 新增任务
