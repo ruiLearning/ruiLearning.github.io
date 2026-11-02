@@ -175,11 +175,15 @@ function showSubTaskInput(parentId, listId) {
   `;
 }
 
-// 页面加载时初始化两个列表
-document.addEventListener("DOMContentLoaded", () => {
-  loadTasks('task');
-  loadTasks('fit');
-});
+// 页面里有任务清单时才请求接口（其他页面不再白白多发两个请求）；
+// 站内用 pjax 切换页面时不会触发 DOMContentLoaded，所以切换完成后也初始化一次
+function initTaskLists() {
+  ['task', 'fit'].forEach(id => {
+    if (document.getElementById(`task-list-${id}`)) loadTasks(id);
+  });
+}
+document.addEventListener("DOMContentLoaded", initTaskLists);
+document.addEventListener("pjax:complete", initTaskLists);
 
 
 // === 一键导入30天健身计划（父子结构）===
